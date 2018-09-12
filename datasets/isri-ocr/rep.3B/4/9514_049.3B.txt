@@ -1,0 +1,107 @@
+Reconciliation of benefit obligation
+with recorded liability           Pension plans     Retiree health plans  Retiree life plans
+December 31 (In millions)        1993        1992      1993     1992        1993      1992
+
+Benefit obligation             $ 20,796   $ 17,999    $2,586   $2,416     $ 1,534   $ 1,327
+Fair value of trust assets      (27,193)   (26,466)      (13)     (32)     (1,317)   (1,221)
+Unamortized balances                                    
+  SFAS No. 87 transition gain     1,077      1,231        -~       -~          -~        -~
+  Experience gains (losses)       2,371      4,939      (654)    (394)       (206)      (21)
+  Plan amendments                  (395)      (518)      580      764          -~        -~
+Recorded prepaid asset            3,840      3,310        -~       -~          -~        -~
+Recorded liability             $    496   $    495    $2,499   $2,754     $    11   $    85
+
+
+  The portion of the projected benefit obligation repre-
+senting the accumulated benefit obligation for pension
+plans was $19,890 million and $16,975 million at the end
+of 1993 and 1992, respectively.  The vested benefit obliga-
+tion for pension plans was $19,732 million and $16,799
+million at the end of 1993 and 1992, respectively.
+  Details of the accumulated postretirement benefit obli-
+gation are shown below.
+
+
+Accumulated postretirement
+benefit obligation
+December 31 (In millions)          1993    1992
+
+Retiree health plans
+  Retirees and dependents       $2,017   $1,789
+  Employees eligible to retire     119      137
+  Other employees                  450      490
+                                $2,586   $2,416
+Retiree life plans
+  Retirees and dependents       $1,147   $  907
+  Employees eligible to retire      79       83
+  Other employees                  308      337
+                                $1,534   $1,327
+
+
+Note 7 Interest and Other Financial Charges
+
+GE. Interest capitalized, principally on major property,
+plant and equipment projects, was $21 million in 1993,
+$29 million in 1992 and $33 million in 1991.
+
+GECS. Interest and discount expense reported in the
+Statement of Earnings is net of interest income on tempo-
+rary investments of excess funds ($42 million, $48 million
+and $54 million in 1993, 1992 and 1991, respectively) and
+capitalized interest ($5 million, $6 million and $8 million
+in 1993, 1992 and 1991, respectively).
+
+
+Note 8 
+
+
+GECS Allowance for Losses on Financing
+Receivables
+
+
+GECS allowance for losses on financing receivables repre-
+sented 2.63% of total financing receivables at year-end
+1993 and 1992.  The allowance for small-balance receiv-
+ables is determined principally on the basis of actual ex-
+perience during the preceding three years.  Further allow-
+ances are provided to reflect management's judgment of
+additional loss potential.  For other receivables, principally
+the larger loans and leases, the allowance for losses is de-
+termined primarily on the basis of management's judg-
+ment of net loss potential, including specific allowances
+for known troubled accounts.  The table below shows the ac-
+tivity in the allowance for losses on financing receivables
+during each of the past three years.
+
+
+(In millions)                   1993      1992      1991
+
+Balance at January 1          $ 1,607   $ 1,508   $ 1,360
+Provisions charged to
+  operations                      987     1,056     1,102
+Net transfers related to
+  companies acquired or sold      126        52       135 
+Amounts written off-~net         (990)   (1,009)   (1,089)
+Balance at December 31        $ 1,730   $ 1,607   $ 1,508
+
+
+  All accounts or portions thereof deemed to be uncollec-
+tible or to require an excessive collection cost are written
+off to the allowance for losses.  Small-balance accounts are
+progressively written down (from 10% when more than
+three months delinquent to 100% when 9-12 months
+delinquent) to record the balances at estimated realizable
+value.  If at any time during that period an account is
+judged to be uncollectible, such as in the case of a bank-
+ruptcy, the uncollectible balance is written off.  Large-
+balance accounts are reviewed at least quarterly, and those
+accounts that are more than three months delinquent are
+written down, if necessary, to record the balances at esti-
+mated realizable value.  Amounts written off in 1993 were
+approximately 1.46% of average financing receivables
+outstanding during the year, compared with 1.58% and
+1.87% of average financing receivables outstanding dur-
+ing 1992 and 1991, respectively.
+
+
+49

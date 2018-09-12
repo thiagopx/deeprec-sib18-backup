@@ -1,0 +1,49 @@
+	On August 10, 1993, the Revenue Reconciliation Act of 1993 was signed into law.  As a result, the federal
+statutory income tax rate was retroactively increased, effective January 1, 1993, by 1% to 35%.  This resulted in
+a $33 million non-recurring, after-tax, non-cash charge related to revaluation of the deferred tax liability in
+accordance with FAS 109.
+
+	The company's effective tax rate was 43.4% in 1993, 38.4% in 1992 and 38.2% in 1991.  A reconciliation
+between the statutory rate and the effective rate is presented below:
+
+
+									1993		1992		1991
+Statutory rate~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 35.0%  34.0%  34.0%
+State income taxes, net of federal benefit~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 4.7	3.9		3.8
+Revaluation of deferred tax liability~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 3.1  -~		-~
+Other~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ .6  .5  .4
+Effective tax rate~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 43.4%  38.4%  38.2%
+
+
+12-~CASH FLOWS	For purposes of the Statement of Cash Flows, all short-term investments with maturities of 90 days or
+less are considered cash equivalents.  Such amounts include marketable securities of $4.8 million in 1993 and
+$104.6 million in 1992.  The effect of foreign currency exchange rate fluctuations was not material for 1993,
+1992 and 1991.
+
+	Supplemental information with respect to the Statement of Cash Flows is presented below (in millions):
+
+
+									1993		1992		1991
+Interest paid, net of capitalized interest~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $ 168.6	$  158.0	$  205.8
+Income taxes paid~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 510.2  552.3	   480.0
+Excise taxes paid~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1,673.4  1,663.0  1,606.6
+
+Changes in Non-Cash Working Capital
+Decrease/(increase) in non-cash current assets:
+	Accounts receivable~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $(101.3)  $  5.0  $ (92.2)
+	Inventories~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 34.0  (25.1)  (68.4)
+	Other current assets~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ .3  (50.3)  (38.8)
+
+Increase/(decrease) in current liabilities:
+	Accounts payable~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 75.1  27.6  (1.4)
+	Accrued salaries, wages and benefits~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ (13.4)  34.0  (24.0)
+	Accrued interest payable~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2.5 (6.1)  (13.8)
+	Due to customers for returnable containers~~~~~~~~~~~~~~~~~~~~~~~~~~  2.1 3.7  (.1)
+	Accrued taxes, other than income taxes~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  4.7  6.1  39.4
+	Estimated income taxes~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  52.2 (6.4)  (34.0)
+	Other current liabilities~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  43.4  (1.9)  24.8
+
+Decrease/(increase) in non-cash working capital~~~~~~~~~~~~~~~~~~~~~~~ $  99.6  $ (13.4)  $(208.5)
+
+
+55

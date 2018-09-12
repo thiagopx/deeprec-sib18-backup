@@ -1,0 +1,61 @@
+RJR Nabisco Holdings Corp.
+RJR Nabisco, Inc.
+
+
+NOTE 13 ~ RETAINED EARNINGS AND CUMULATIVE TRANSLATION ADJUSTMENTS
+
+  Retained earnings (accumulated deficit) at December 31, 1993, 1992 and 1991 includes non-cash expenses related
+to accumulated trademark and goodwill amortization of $3.015 billion, $2.390 billion and $1.774 billion, respectively.
+  The changes in cumulative translation adjustments are shown as follows:
+
+
+                                   Year Ended    Year Ended    Year Ended
+                                   December 31,  December 31,  December 31,
+                                       1993        1992           1991
+Balance at beginning of period       $ (47)        $  11          $  35
+ Translation and other adjustments     (55)          (58)           (24)
+Balance at end of period             $ (102)        $ (47)         $  11
+
+
+NOTE 14 ~ RETIREMENT BENEFITS
+
+  RJRN sponsors a number of non-contributory defined benefit pension plans covering most U.S. and certain for-
+eign employees.  Plans covering regular full-time employees in the tobacco operations as well as the majority of
+salaried employees in the corporate groups and food operations to provide pension benefits that are based on
+credits, determined by age, earned throughout an employee's service and final average compensation before
+retirement.  Plan benefits are offered as lump sum or annuity options.  Plans covering hourly as well as certain
+salaried employees in the corporate groups and food operations provide pension benefits that are based on the
+employee's length of service and final average compensation before retirement.  RJRN's policy is to fund the cost
+of current service benefits and past service cost over periods not exceeding 30 years to the extent that such costs
+are currently tax deductible.  Additionally,  RJRN participates in several multi-employer and other defined contribu-
+tion plans, which provide benefits to certain of RJRN's union employees.  Employees in foreign countries who are
+not U.S. citizens are covered by various post-employment benefit arrangements, some of which are considered to
+be defined benefit plans for accounting purposes.
+  A summary of the components of pension expense for RJRN-sponsored plans follows:
+
+
+                                                Year Ended    Year Ended    Year Ended
+                                                December 31,  December 31,  December 31,
+                                                   1993          1992         1991
+Defined benefit pension plans:
+ Service cost-~benefits earned during the period   $  76        $  84        $  71
+ Interest cost on projected benefit obligation       255          251          239
+ Less actual return on plan assets                  (262)        (259)        (504)
+ Net amortization and deferral                        (4)          (4)         252
+  Total                                               65           72           58
+Multi-employer and other contribution plans           32           31           33
+  Total pension expense                            $  97        $ 103        $  91
+
+
+The principal plans used the following actuarial assumptions for accounting purposes:
+
+
+
+                                           December 31,   December 31,
+                                              1993           1992
+Weighted average discount rate                7.5%           8.5%
+Rate of increase in compensation levels       5.0%           5.0%
+Expected long-term rate of return on assets   9.5%          10.0%
+
+
+61

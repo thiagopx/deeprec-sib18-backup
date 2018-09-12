@@ -1,0 +1,127 @@
+Notes to Consolidated Financial Statements
+
+
+(tabular dollars in millions except per share amounts)
+Note 1 -~ Summary of Significant Accounting Policies
+Significant accounting policies are discussed below, and where
+applicable, in the Notes that follow.
+  Principles of Consolidation.  The financial statements
+reflect the consolidated accounts of PepsiCo, Inc. and its con-
+trolled affiliates.  Intercompany accounts and transactions have
+been eliminated.  Investments in affiliates in which PepsiCo exer-
+cises significant influence but not control are accounted for by
+the equity method, and the equity in net income is included in
+Selling, general and administrative expenses in the Consolidated
+Statement of Income.  Certain other reclassifications were made
+to prior year amounts to conform with the 1993 presentation.
+  Marketing Costs.  Marketing costs are reported in Selling,
+general and administrative expenses and include costs of adver-
+tising, marketing and promotional programs.  Promotional
+discounts are expensed as incurred, and other marketing costs
+not deferred are charged to expense ratably in relation to
+sales over the year in which incurred.  Marketing costs deferred
+consist of media and personal service advertising prepayments,
+materials in inventory and production costs of future media
+advertising; these assets are expensed in the year used.
+  Cash Equivalents.  Cash equivalents represent funds
+temporarily invested (with original maturities not exceeding
+three months) as part of PepsiCo's management of day-to-day
+operating cash receipts and disbursements.  All other investment
+portfolios, primarily held outside the U.S., are classified as short-
+term investments.
+  Net Income Per Share.  Net income per share is computed
+by dividing net income by the weighted average number of
+shares and share equivalents outstanding during each year.
+  Research and Development Expenses.  Research and
+development expenses, which are expensed as incurred, were
+$113 million, $102 million and $99 million in 1993, 1992 and
+1991, respectively.
+
+Note 2 -~ Business Segments
+Information regarding industry segments and geographic areas
+of operations is provided on pages 27 through 29.
+
+Note 3 -~ Unusual Items
+In 1993, PepsiCo recorded a charge of $29.9 million ($0.04 per
+share) to increase its net deferred tax liabilities, as required by
+Statement of Financial Accounting Standards No. 109 (SFAS 109),
+"Accounting for Income Taxes," for the 1% statutory rate
+increase under U.S. tax legislation enacted in 1993.  (See Note 13.)
+  Unusual charges, principally for restructurings, totaled
+$193.5 million in 1992 ($128.5 million after-tax or $0.16 per
+share) and $170.0 million in 1991 ($119.8 million after-tax
+or $0.15 per share).  In 1992, PepsiCo adopted the Statement of
+Financial Accounting Standards No. 106 (SFAS 106), "Employers'
+Accounting for Postretirement Benefits Other Than Pensions"
+and SFAS 109 effective December 29, 1991.  (See Notes 10 and 13.)
+As compared to the previous accounting methods, the adoption
+of SFAS 106 and SFAS 109 reduced 1992 operating profit by
+$72.8 million ($19.3 million after-tax or $0.02 per share).  Infor-
+mation regarding the effect of these actions on comparability
+of operating profits is provided on page 27.
+
+
+Note 4 -~ Acquisitions and Investments in Affiliates
+During 1993, PepsiCo completed a number of acquisitions and
+affiliate investments in all three industry segments aggregating
+$1.4 billion, principally comprised of $1.0 billion in cash and
+$335 million in PepsiCo Capital Stock.  Approximately $307 mil-
+lion of debt, including capital lease obligations, was assumed
+in these transactions, more than half of which was subsequently
+retired.  This activity included acquisitions of domestic and
+international franchised restaurant operations, the buyout of
+PepsiCo's joint venture partners in a franchised bottling opera-
+tion in Spain and the related acquisition of their fruit-flavored
+beverage operation, the acquisition of the remaining 85% inter-
+est in a large franchised bottling operation in the Northwestern
+U.S., the acquisition of a regional Mexican-style casual dining
+restaurant chain in the U.S. and equity investments in certain
+franchised bottling operations in Argentina and Mexico.
+  During 1992, acquisitions and affiliate investment activity 
+aggregated $1.4 billion, principally for cash. This activity
+included acquisitions of international (primarily Canada) and
+domestic franchised bottling operations and a number of
+domestic and international franchised restaurant operations, the
+buyout of PepsiCo's joint venture partner in a Canadian snack
+food business and an equity investment in a domestic casual
+dining restaurant chain featuring gourmet pizza. In addition, 
+PepsiCo exchanged certain previously consolidated snack food
+operations in Europe with a net book value of $87 million for
+a 60% equity interest in an international snack food joint venture
+with General Mills, Inc. PepsiCo secured a controlling interest
+in its Mexican cookie affiliate, Gamesa, through an exchange of
+certain non-cookie operations of Gamesa for its joint venture
+partner's interest.
+  During 1991, acquisition and affiliate investment activity aggre-
+gated $804 million, principally for cash, led by acquisitions of
+domestic franchised restaurant operations.
+  The acquisitions have been accounted for by the purchase
+method; accordingly, their results are included in the Consoli-
+dated Financial Statements from their respective dates of
+acquisition.  The aggregate impact of acquisitions was not mate-
+rial to PepsiCo's net sales, net income or net income per share;
+accordingly, no related pro forma information is provided.
+
+Note 5 -~ Inventories
+Inventories are valued at the lower of cost (computed on the
+average, first-in, first-out or last-in, first-out methods) or net
+realizable value.  The cost of 41% of 1993 inventories and 44% of
+1992 inventories was computed using the last-in, first-out (LIFO)
+method.  Use of the LIFO method increased the 1993 total year-
+end inventory amount below by $8.9 million, but reduced the
+1992 amount by $3.4 million.
+
+
+1993  1992
+Raw materials, supplies and in-process    $463.9   $388.1
+Finished goods ~~~~~~~~~~~~~~~~~~~~        460.8    380.7
+                                          $924.7   $768.8
+
+
+  PepsiCo hedges certain raw material purchases through com-
+modity futures contracts to reduce its exposure to market price
+fluctuations.  Gains and losses on these contracts are included
+in the cost of the raw materials.
+
+
+37

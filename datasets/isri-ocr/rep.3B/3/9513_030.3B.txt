@@ -1,0 +1,86 @@
+Ford Motor Company
+
+
+NOTE 2.  MARKETABLE AND OTHER SECURITIES
+
+Automotive.  Automotive marketable securities are recorded at
+cost plus accrued interest, which approximates fair value.
+
+Financial Services.  Investments in debt securities are recorded at
+amortized cost because of the ability to hold such securities until
+
+
+maturity and the intent to hold them for the foreseeable future.  If
+market conditions change, however, certain of these securities may
+be sold prior to maturity.  Marketable equity securities are
+recorded at fair value.
+
+Investments in debt securities at December 31 were as follows (in
+millions):
+
+
+						1993						1992
+					Gross		Gross				Gross		Gross
+				Book	Unrealized	Unrealized  Fair	Book	Unrealized	Unrealized  Fair
+				Value	Gains		Losses	    Value	Value	Gains		Losses      Value
+
+Debt securities issued by the
+ U.S. government and agencies	$ 974	$ 27		$ 1	    $1,000	$ 964	$17		$ 1	    $ 980
+Municipal securities		  126	   3		  0	       129	   35	  1		  0	       36
+Debt securities issued by 
+ foreign governments		   88	   4		  1		91	   35	  1		  0	       36
+Corporate securities		1,779	  48		 19	     1,808	1,107	 28		 10	    1,125
+Mortgage-backed securities
+ (including derivatives)	2,588	  39		 82	     2,545	1,851	 17		140	    1,728
+Other debt securities		  192	   0		  1	       191	  407	  1		  3	      405
+
+  Total			       $5,747	$121		$104	    $5,764	$4,399	$65		$154	   $4,310
+
+
+The fair value of most securities was estimated based on quoted
+market prices for those securities.  For those securities for which
+there were no quoted market prices, the estimate of fair value was
+based on similar types of securities that are traded in the market.
+
+The book value and fair value of investments in debt securities at
+
+
+December 31, by contractual maturity, are shown below (in
+millions).  Expected maturities may differ from contractual
+maturities because borrowers may have the right to call or prepay
+obligations with or without penalty.
+
+
+								1993				1992
+							Book		Fair		Book		Fair
+							Value		Value		Value		Value
+Due in one year or less					$   96		$   96		$  280		$  281
+Due after one year through five years			 1,023		 1,035		 1,119		 1,126
+Due after five years through ten years			   563		   580		   434		   443
+Due after ten years					 1,477		 1,508		   715		   732
+Mortgage-backed securities (including derivatives)	 2,588		 2,545		 1,851		 1,728
+
+  Total							$5,747		$5,764		$4,399		$4,310
+
+
+Proceeds from sales of investments in debt securities were
+$11.2 billion in 1993, $10.5 billion in 1992 and $13.9 billion in
+1991.  In 1993, gross gains of $113 million and gross losses of
+$20 million were realized on those sales; gross gains of
+$142 million and gross losses of $86 million were realized in
+1992, and gross gains of $141 million and gross losses of
+$22 million were realized in 1991.
+
+Investments in securities other than debt securities totaled
+$2,472 million at December 31, 1993, and $2,475 million at
+
+
+December 31, 1992.  The estimated fair value in excess of book
+value of those securities which were practicable to value was
+$59 million at December 31, 1993, and $2 million at
+December 31, 1992.  It was not practicable to calculate the fair
+value of certain securities totaling $660 million at
+December 31, 1993, and $740 million at December 31, 1992,
+because they represented preferred stocks of non-traded companies
+with whom the company does business and for which similar
+market-traded securities were not available for comparison.

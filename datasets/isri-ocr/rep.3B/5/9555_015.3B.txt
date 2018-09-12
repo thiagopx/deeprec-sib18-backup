@@ -1,0 +1,49 @@
+Per Common Share Data
+Earnings
+Before (a) Average Shares
+% Accounting Net Cash Book Outstanding Shareholders'
+Growth Change Earnings Dividends Value (millions) Equity
+
+14% 14% 13%
+58 $2.94 $2.94 $1.32 $7.52 231.5 $1,713.4
+(29) 2.86 1.81 1.20 8.20 238.9 1,945.2
+21 2.51 2.51 1.075 8.98	241.2 2,159.8
+7 2.08 2.08 .96 7.88 241.6 1,901.8
+(2) 1.73 1.93 .86 6.70 244.2 1,634.4
+21 1.95 1.95 .76 6.03 246.4 1,483.2
+24 1.60 1.60 .64 4.91 247.4 1,211.4
+13 1.29 1.29 .51 3.63 247.0 898.4
+12 1.14 1.14 .45 2.77 246.6 683.0
+3 .84 .84 .42 1.98 298.8 487.2
+7 .79 .79 .40 3.20 305.8 977.9
+
+
+Financial Ratios
+Pretax Interest Return on Debt to
+Current	Coverage Average Total Cash Provided Long-term
+Ratio (times) Equity Capital by Operations Debt
+
+1.0 27 37% 35% $800.2 $521.6
+1.2 33 21% 21% 741.9 314.9
+.9 17 30% 18% 934.4 15.2
+.9 11 28% 26% 819.2 295.6
+.9 10 30% 34% 533.5 371.4	
+.9 13 36% 32% 492.3 272.1	
+.9 14 38% 27% 523.5 290.4	
+1.1 13 40% 31% 542.7 264.1	
+1.4 11 48% 38% 449.7 392.6	
+1.1 26 27% 59% 331.5 364.1	
+1.8 64 26% 4% 347.1 18.6
+
+
+Net Earnings
+(millions, before
+accounting change)
+
+
+Return on Average Assets
+(percent, before
+accounting change)
+
+
+15

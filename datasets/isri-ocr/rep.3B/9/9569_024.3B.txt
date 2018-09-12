@@ -1,0 +1,41 @@
+Balance 
+Sheets
+
+
+TRW Inc. and subsidiaries
+In millions
+December 31 1993 1992
+
+Assets
+Current assets
+Cash and cash equivalents $ 79 $ 66
+Accounts receivable 1,219 1,289
+Inventories
+Finished products and work in process 237 263
+Raw materials and supplies 173 159
+Total inventories 410 422
+Prepaid expenses 69 69
+Deferred income taxes 217 270
+Total current assets 1,994 2,116
+
+Property, plant and equipment-on the basis of cost
+Land 104 96
+Buildings 1,461 1,442
+Machinery and equipment 3,555 3,514
+5,120 5,052
+Less accumulated depreciation and amortization 2,793 2,741
+Total property, plant and equipment-net 2,327 2,311
+
+Intangible assets
+Intangibles arising from acquisitions 499 552
+Capitalized data files 421 418
+Other 36 46
+956 1,016
+Less accumulated amortization 279 299
+Total intangible assets-net 677 717
+
+Other assets 338 314
+$5,336 $5,458
+
+
+24

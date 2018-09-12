@@ -1,0 +1,86 @@
+First Data: How UNIX and 
+Alpha AXP technology gave
+a Digital business partner
+a competitive edge in the
+healthcare field
+First Data Corp.'s Health
+Systems Group serves some 
+700 hospitals and healthcare
+facilities in the U.S. and inter-
+national markets. The com-
+pany designs and markets
+leading-edge healthcare
+technology solutions, includ-
+ing computer-based patient
+record applications. Three 
+of their newest customer 
+reference accounts are using
+UNIX-based Alpha AXP
+systems.
+
+At Georgetown Memorial,
+Roper and Union Memorial
+hospitals, these systems are
+dramatically reducing the
+time it takes to run major
+reports and financial recon-
+ciliations. At Georgetown
+Memorial, reports that took 
+four to six hours are now 
+completed in 20 minutes.
+At Roper Hospital, monthly
+financial reporting that took
+24 hours is now finished in 
+one to two hours.
+
+
+On the strength of this
+performance, First Data 
+is closing additional Alpha
+AXP system sales. With 
+Alpha AXP systems and 
+services, Digital provides
+First Data with a robust,
+industrial-strength UNIX
+together with the tools 
+needed to develop and main-
+tain complex client/server
+and database applications.
+
+And it is the ability to 
+develop new applications
+that provides Digital busi-
+ness partners like First Data 
+with the competitive advan-
+tage they need to succeed 
+in a changing marketplace.
+
+
+"Digital has given us what we needed: UNIX that meets 
+industry standards. Alpha AXP systems that set the stan-
+dard for performance. And the kind of support that comes
+with a true business partnership."
+
+-~ Larry Ferguson, President
+   First Data Corp.
+   Health Systems Group
+
+
+How big is 64 bits?
+
+If one bit of information is represented by the smallest printable dot - one pixel -~ a square representing
+16 bits of information would consist of 65,536 pixels, and would cover an area of about three-~quarters
+of an inch. A square representing 32 bits would cover an area eighteen by eighteen feet. To represent
+64 bits -~ 4 billion times larger than 32 bits -~ an area the size of Greece, 51,000 square miles, would
+be required.
+
+16 bits    32 bits     64 bits
+
+
+.75 square inch   16 square feet      51,000 square miles
+
+
+Source: Illuminata
+
+
+15

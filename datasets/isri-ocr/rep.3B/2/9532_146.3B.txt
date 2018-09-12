@@ -1,0 +1,69 @@
+USX
+ 
+
+Five-Year Financial Summary
+
+
+(Dollars in millions, except as noted)                          1993        1992        1991        1990        1989
+Sales                                                        $  18,064   $  17,813   $  18,825   $  20,659   $  18,717
+Operating income (loss)                                             56          70        (259)      1,556       1,570
+  Operating income includes:
+    B&LE litigation charge                                         342          -~          -~          -~          -~
+    Inventory market valuation charges (credits)                   241         (62)        260        (140)       (145)
+    Restructuring charges                                           42         125         426          -~          -~
+Total income (loss) before cumulative effect of
+  changes in accounting principles                                (167)       (160)       (578)        818         965
+Net Income (Loss)                                                 (259)     (1,826)       (578)        818         965
+  Marathon Stock:
+  Income (loss) before cumulative effect of changes
+    in accounting principles applicable to Marathon Stock    $     (12)  $     103   $     (78)  $     494   $     384
+  Income (loss) before cumulative effect of changes in
+    accounting principles per share -~ primary (in dollars)       (.04)        .37        (.31)       1.94        1.49
+  Net income (loss) applicable to Marathon Stock                   (35)       (228)        (78)        494         384
+  Net income (loss) per share -~ primary (in dollars)             (.12)       (.80)       (.31)       1.94        1.49
+  Dividends paid per share (in dollars)(a)                         .68        1.22        1.31        1.22        1.22
+Steel Stock:
+  Income (loss) before cumulative effect of changes
+    in accounting principles applicable to Steel Stock       $    (190)  $    (274)  $    (509)  $     306   $     523
+  Income (loss) before cumulative effect of changes in
+    accounting principles per share -~ primary (in dollars)      (2.96)      (4.92)     (10.00)       6.00       10.17
+  Net income (loss) applicable to Steel Stock                     (259)     (1,609)       (509)        306         523
+  Net income (loss) per share -~ primary (in dollars)            (4.04)     (28.85)     (10.00)       6.00       10.17
+  Dividends paid per share (in dollars)(a)                        1.00        1.00         .94         .88         .88
+Delhi Stock Outstanding Since October 2, 1992:
+  Net income applicable to outstanding Delhi Stock           $       8   $       2
+  Net income per share -~ primary (in dollars)                     .86         .22
+  Dividends paid per share (in dollars)                            .20         .05
+Balance Sheet Position -~ year-end
+  Cash and cash equivalents                                  $     268   $      57   $     279   $     263   $     786
+  Total assets                                                  17,374      17,252      17,039      17,268      17,500
+  Capitalization:
+    Notes payable                                            $       1   $      47   $      79   $     138   $      16
+    Total long-term debt                                         5,923       6,302       6,438       5,527       5,875
+    Total proceeds from production agreements                       -~          -~          17         142         327
+    Minority interest                                                5          16          37          67          -~
+    Preferred stock                                                112         105         105         108         382
+    Common stockholders' equity                                  3,752       3,604       4,882       5,761       5,355
+      Total capitalization                                   $   9,793   $  10,074   $  11,558   $  11,743   $  11,955
+  % of total debt to capitalization(b)                            60.5        63.2        56.9        50.0        52.0
+Cash Flow Data
+  Net cash from operating activities                         $     944   $     920   $   1,023   $   1,621   $   2,446
+  Capital expenditures                                           1,151       1,505       1,392       1,391       1,429
+  Disposal of assets                                               469         117          78         558         988
+  Dividends paid                                                   288         397         376         360         403
+Employee Data(c)
+  Total employment costs                                     $   2,175   $   1,975   $   1,995   $   1,990   $   2,047
+  Average number of employees                                   44,605      45,582      47,513      51,523      53,610
+  Number of pensioners -~ year-end                               108,263     109,782     113,242     115,984     118,756
+
+
+(a) Dividends paid prior to September 10, 1991, were attributed to the Marathon Stock and Steel Stock based upon
+    the relationship of the initial dividends.
+(b) Total debt represents the sum of notes payable, total long-term debt, total proceeds from production agreements
+    and minority interest.
+(c) Excluded employee related costs attributable to restructuring charges or credits and excluded RMI Titanium
+    Company data.
+
+
+66
+

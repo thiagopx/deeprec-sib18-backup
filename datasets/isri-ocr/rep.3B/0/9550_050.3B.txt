@@ -1,0 +1,58 @@
+10. RETIREMENT PLANS:       The company maintains retirement plans for the majority of its employees. Benefits are based on years of service and compensation
+or stated amounts for each year of service. Plan assets are primarily invested in equities and fixed income securities. The company's
+funding policy for the domestic plans is to contribute annually not less than the ERISA minimum funding standards nor more than the
+maximum amount which can be deducted for federal income tax purposes. Generally, foreign plans are funded in amounts sufficient
+to comply with local regulations and ensure adequate funds to pay benefits to retirees as they become due.
+  Net pension costs consisted of the following:
+
+
+(Dollars in thousands)  1994 1993 1992
+Benefits earned during the year   $ 15,215   $ 20,384  $ 22,801
+Interest cost on projected benefit obligation   66,706  65,612  66,668
+Actual return on plan assets  (98,673)  (98,358)  (105,940)
+Net amortization and deferral  25,028  21,292  23,235
+Net pension costs  $ 8,276  $ 8,930  $ 6,764
+
+
+The following table sets forth the combined funded status of the company's principal plans at April 27, 1994 and April 28, 1993.
+
+
+(Dollars in thousands)  1994 1993
+Actuarial present value of:
+  Accumulated benefit obligation, primarily vested  $775,986  $748,089
+  Additional obligation for projected compensation increases  43,074 69,992
+Projected benefit obligation  819,060 818,081
+Plan assets, at fair value  933,257 908,745
+Plan assets in excess of projected benefit obligation   114,197 90,664
+Unamortized prior service cost  60,238 63,427
+Unamortized actuarial losses, net  22,910 56,819
+Unamortized net assets at date of adoption  (36,885) (44,688)
+Prepaid pension costs  $160,460 $166,222
+
+
+The weighted average rates used for the years ended April 27, 1994, April 28, 1993 and April 29, 1992 in determining the net
+pension costs and projected benefit obligations were as follows:
+
+
+1994 1993 1992
+Expected rate of return on plan assets  10.0% 10.1% 10.1%
+Discount rate  8.3% 8.6% 8.8%
+Compensation increase rate  4.8% 6.2% 6.7%
+
+
+Assumptions for foreign plans are developed on a basis consistent with those for U.S. plans, adjusted for prevailing economic conditions.
+  In April 1992, the Board of Directors amended the domestic salaried defined benefit pension plan to provide that no benefits 
+would accrue under this plan on or after January 1, 1993. At the same time, the Board expanded, effective January 1, 1993, the
+defined contribution plan covering substantially all domestic salaried employees, described below. The Board's actions on the defined 
+benefit pension plan resulted in an after-tax curtailment gain of $23.6 million, which was recorded in 1992. No plan assets were
+withdrawn from the pension plan as a result of this curtailment.
+  The company maintains defined contribution plans for the majority of its domestic non-union and salaried employees.
+Benefits are provided through company contribution accounts which consist solely of company contributions that are a percentage of
+the participant's pay based on age, with the contribution rate increasing with age. In addition, certain non-union employees receive
+supplemental contributions, which are paid at the discretion of the company, and matching contributions based on a percentage of the
+participant's contributions to the 401(k) portion of the plan. (The company's matching contributions for salaried employees are
+provided under the ESOP.) The expense recognized as a result of company contributions to the defined contribution plans, excluding
+the ESOP, totaled $16.5 million in 1994. In 1993, $4.5 million was expensed for the company defined contribution plans.
+
+
+(50)

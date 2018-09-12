@@ -1,0 +1,76 @@
+Off Balance Sheet Risk Information as of December 31, 1993
+  The Company has guaranteed approximately $22 million of debt of certain affiliates, CITGO
+distributors and other parties which is substantially collateralized by assets of these entities. The
+Company has outstanding letters of credit totaling approximately $174 million, which includes $131
+million related to LYONDELL-CITGO (Note 2) and $30 million related to the Company's industrial 
+development bonds (Note 9). The Company has also acquired surety bonds totaling $18 million
+primarily due to requirements of various government entities. The Company is exposed to credit loss in
+the event of nonperformance by the other parties to the interest rate swap agreements (Note 9),
+however, the Company does not anticipate nonperformance by the counterparties.
+
+13. LEASES
+
+ The Company leases certain of its Corpus Christi refinery facilities under a long-term lease. The basic
+term of the lease expires on January 1, 2004; however, the Company may renew the lease until January
+31, 2011, the date of its purchase option. Capitalized costs included in property, plant and equipment
+related to the leased assets were approximately $209 million at December 31, 1993 and 1992.
+Accumulated amortization related to the leased assets was approximately $62 million and $54 million at
+December 31, 1993 and 1992, respectively. Amortization is included in depreciation expense.
+  The Company also has various noncancellable operating leases, primarily for office space, computer
+equipment and vehicles. Rent expense on all operating leases totaled $34 million and $35 million in 1993
+and 1992. Future minimum lease payments for the capital lease and noncancellable operating leases are
+as follows:
+
+
+Capital  Operating 
+Year  Lease  Leases  Total
+(000's omitted)
+
+1994~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $ 27,375 $12,349 $ 39,724
+1995~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 27,375 8,526 35,901
+1996~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 27,375 6,775 34,150
+1997~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 27,375 5,759 33,134
+1998~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 27,375 5,429 32,804
+Thereafter ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 172,875 517 173,392
+
+Total minimum lease payments ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 309,750 $39,355 $349,105
+Amount representing interest ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ (139,745)
+
+Present value of minimum lease payments ~~~~~~~~~~~~~~~~~ 170,005
+Current portion ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 8,481 
+$161,524
+
+
+14. FAIR VALUE INFORMATION
+
+  The following disclosure of the estimated fair value of financial instruments is made in accordance
+with the requirements of SFAS No. 107, "Disclosures about Fair Value of Financial Instruments." The
+estimated fair value amounts have been determined by the Company, using available market
+information and appropriate valuation methodologies. However, considerable judgment is necessarily
+required in interpreting market data to develop the estimates of fair value. Accordingly, the estimates
+presented herein are not necessarily indicative of the amounts that the Company could realize in a
+current market exchange. The use of different market assumptions and / or estimation methodologies
+may have a material effect on the estimated fair value amounts.
+
+
+1993 1992
+Carrying Fair Carrying Fair
+Amount Value Amount Value
+ASSETS: (000's omitted)
+Cash and cash equivalents~~~~~~~~~~~~~~~~~~~~ $ 13,652 $ 13,652 $ 23,618 $ 23,618
+Accounts receivable ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 607,562   607,562   578,662  578,662
+LIABILITIES:
+Short-term bank loans ~~~~~~~~~~~~~~~~~~~~~~~~~~~ 37,000   37,000  9,000  9,000
+Accounts payable ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 444,272   444,272   368,330   368,330
+Long-term debt~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 914,550   959,484  1,056,930   1,072,366
+
+OFF BALANCE SHEET
+FINANCIAL INSTRUMENTS:
+Interest rate swap agreements ~~~~~~~~~~~~~ -~  1,026  -~  -~
+Interest rate limit agreements~~~~~~~~~~~~~~~ -~  -~  -~  -~
+Guarantees of debt ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  -~  89  -~  470
+Letters of credit ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  -~  460  -~  214
+Surety bonds~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  -~  84  -~  88
+
+
+40

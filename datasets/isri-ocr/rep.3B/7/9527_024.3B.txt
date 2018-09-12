@@ -1,0 +1,59 @@
+Notes to Consolidated Financial Statements
+(Dollars in millions except per share amounts)
+
+
+The Procter & Gamble Company and Subsidiaries
+
+
+June 30                             1994     1993
+Notional amount                   $3,543   $3,773
+Fair value: gains                     13       77
+            losses                   252      199
+Net fair value                       239      122
+Less: carrying value                 193       74
+Estimated unrealized loss             46       48
+
+
+  The estimated unrealized losses shown above represent the incremental charge to earnings to
+immediately settle all interest rate swaps.  However, it is the Company's current intention to
+leave these instruments outstanding until maturity over various periods extending to the year
+2004, in which case no incremental charge to earnings will be realized.
+
+Currency Instruments
+The Company is subject to market rate risk from exposure to changes in currency exchange rates
+primarily in three areas:  commercial transactions, intercompany financings and net investments
+in foreign subsidiaries.
+  The primary purpose of the Company's foreign currency hedging activities is to protect
+against the risk that local currency cash flows associated with purchase transactions will be
+adversely affected by changes in exchange rates.  Although this foreign currency exposure is
+managed locally, corporate policy prescribes the range of hedging activity into which the
+subsidiary operations may enter.  To execute this policy, the Company utilizes forward exchange
+contracts and options with durations of generally less than twelve months.  The impact of
+changes in the value of these instruments typically offsets changes in the value of the underlying
+transactions.  For accounting purposes, gains and losses on option contracts that hedge
+identifiable anticipated transactions and on forward contracts that hedge firm commitments are
+included in the measurement of the related transaction.  Gains and losses on instruments used
+for other purposes are recognized currently.
+  The Company manages its foreign exchange exposure associated with intercompany
+financing transactions primarily using foreign currency swaps.  Gains and losses on such
+instruments mitigate the impact on earnings of currency exchange rate changes on the
+underlying transactions.
+  The impact of net asset exposures related to investments in foreign subsidiaries are managed
+primarily through local currency financing, and by foreign currency denominated debt issued
+by the parent company.  As discussed in the interest rate instruments section, the Company has
+also entered into currency interest rate swaps, which effectively convert the principal and
+interest cash flows of certain existing debt to foreign currency obligations.  The currency
+translation associated with these obligations is designated as a hedge of the net investment in
+the foreign subsidiaries and reflected in the currency translation adjustment in shareholders'
+equity.
+  Currency instruments outstanding at June 30, 1994 were as follows:
+
+
+( ) = Liability               Notional Amount     Carrying Value
+Forward contracts                $1,873              $ (10)
+Currency options                  1,138                 10
+Currency swaps                      646                (62)
+                                  3,657                (62)
+
+
+24

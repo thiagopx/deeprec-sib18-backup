@@ -1,0 +1,1 @@
+docker run --runtime=nvidia -v $PWD:/home/$USER/sib18 -it sib18:latest sh -c "cd /home/$USER/sib18 && python dataset.py"

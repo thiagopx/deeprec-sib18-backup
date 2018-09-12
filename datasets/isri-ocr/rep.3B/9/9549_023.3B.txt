@@ -1,0 +1,59 @@
+CONSOLIDATED STATEMENTS OF CASH FLOWS
+
+
+                                                                                    Fiscal Year Ended
+In Millions   May 29, 1994   May 30, 1993  May 31, 1992
+Cash Flows - Operating Activities:
+  Earnings from continuing operations    $469.9   $506.1  $505.6
+  Adjustments to reconcile earnings to cash flow:
+    Depreciation and amortization   303.8  274.2   247.4
+    Deferred income taxes  (27.8) 40.8  13.5
+    Change in current assets and liabilities, 
+      net of effects from business acquired  (72.0)  2.5  20.0
+    Unusual expenses  146.9  57.3   -
+    Other, net  15.2  (15.0)  3.9
+
+  Cash provided by continuing operations   836.0  865.9  790.4
+  Cash used by discontinued operations  (5.3)  (6.0)  (18.8)
+
+    Net Cash Provided by Operating Activities   830.7  859.9 771.6
+
+Cash Flows - Investment Activities:
+  Purchases of land, buildings and equipment   (559.5)  (623.8) (695.3)
+  Investments in businesses, intangibles and affiliates, net of dividends   (140.8)  (55.8)  (30.6)
+  Purchases of marketable investments   (83.8)  (82.8) (6.9)
+  Proceeds from sale of marketable investments  33.7  13.1  6.9
+  Proceeds from disposal of land, buildings and equipment  7.2  5.2  8.1
+  Proceeds from dispositions   -   -   77.7
+  Other, net   (39.0)  (40.0)  (7.9)
+
+    Net Cash Used by Investment Activities   (782.2)  (784.1)  (648.0)
+
+Cash Flows - Financing Activities:  
+  Increase in notes payable   93.2  207.6  150.3
+  Issuance of long-term debt   273.6  422.6  188.7
+  Payment of long-term debt   (79.1)  (44.5)  (248.0)
+  Common stock issued   13.3  32.3  39.3
+  Purchases of common stock for treasury   (145.7)  (420.2)  (40.1)
+  Dividends paid   (299.4)  (274.8)  (245.2)
+  Other, net  (4.2)  (7.4)  (7.9)
+
+    Net Cash Used by Financing Activities   (148.3)  (84.4)  (162.9)
+
+Decrease in Cash and Cash Equivalents  (99.8)  (8.6)  (39.3)
+Cash and Cash Equivalents - Beginning of Year   100.0  .5   39.8
+Reclassification of Marketable Investment   -  108.1  -
+
+Cash and Cash Equivalents - End of Year   $ .2   $100.0   $ .5
+
+Cash Flow from Changes in Current Assets and Liabilities:
+  Receivables   $ (17.3)  $ (44.7)  $ 2.1
+  Inventories  (111.0)  28.7  .6
+  Prepaid expenses and other current assets  (5.1)  4.6  (8.9)
+  Accounts payable  33.2  9.0  54.5
+  Other current liabilities   28.2  4.9   (28.3)
+
+Change in Current Assets and Liabilities   $ (72.0)  $ 2.5  $ 20.0
+
+
+See accompanying notes to consolidated financial statements.

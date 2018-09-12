@@ -1,0 +1,110 @@
+  The 1991 amounts above were calculated under the previous
+accounting method.  The 1991 deferred provision arose prin-
+cipally from accelerated expense recognition for tax purposes
+as compared to financial reporting and included amounts related
+to depreciation of property, plant and equipment of $56.2 mil-
+lion, amortization of intangibles of $49.0 million and increased
+prefunding of employee benefits of $23.3 million, partially offset
+by $41.7 million related to restructuring charges.
+  Tax benefits associated with exercises of stock options totaled
+$23.4 million in 1993, $57.5 million in 1992 and $8.5 million in
+1991.  These amounts were credited to shareholders' equity.  A
+change in the functional currency of operations in Mexico from
+the U.S. dollar to local currency in 1993 resulted in a $19.3 mil-
+lion decrease in the net deferred foreign tax liability that was
+credited to shareholders' equity.
+  U.S. and foreign income before income taxes and cumulative
+effect of accounting changes:
+
+
+                            1993       1992       1991
+U.S. ~~~~~~~~~~~~~~~~   $1,633.0   $1,196.8   $1,054.3
+Foreign ~~~~~~~~~~~~       789.5      702.0      605.4
+                        $2,422.5   $1,898.8   $1,659.7
+
+
+  PepsiCo operates centralized concentrate manufacturing
+facilities in Puerto Rico and Ireland under long-term tax incen-
+tives.  The foreign amount in the above table includes approxi-
+mately 50% (consistent with the allocation for tax purposes) of
+the income from U.S. sales of concentrate manufactured in
+Puerto Rico.
+  Reconciliation of the U.S. federal statutory tax rate to PepsiCo's
+effective tax rate on pretax income, based on the dollar impact
+of these major components on the provision for income taxes:
+
+
+                                          1993    1992    1991
+U.S. federal statutory tax rate ~~~~~~~   35.0%   34.0%   34.0%
+State income tax, net of federal tax
+  benefit ~~~~~~~~~~~~~~~~~~~~~~~          2.9     2.3     2.4
+Effect of lower taxes on foreign
+  income (including Puerto Rico
+  and Ireland) ~~~~~~~~~~~~~~~~~~~   (3.3)   (5.0)   (2.7)
+Reduction of prior year foreign
+  accruals ~~~~~~~~~~~~~~~~~~~~~~        (2.0)     -~      -~
+Effect of 1993 tax legislation on
+  deferred income taxes ~~~~~~~~~~         1.1      -~      -~
+Nondeductible amortization of
+  domestic goodwill (all years)
+  and other intangible assets
+  (1991 only) ~~~~~~~~~~~~~~~~~~~~         0.8      0.9     1.8
+Other, net ~~~~~~~~~~~~~~~~~~~~~~           -~     (0.8)   (0.6)
+Effective tax rate ~~~~~~~~~~~~~~~~~      34.5%    31.4%   34.9%
+
+
+Detail of the 1993 and 1992 deferred tax liabilities (assets):
+
+
+                                           1993        1992
+Intangible assets other than
+  nondeductible goodwill ~~~~~~~~~~  $ 1,551.0   $1,292.2
+Property, plant and equipment ~~~~~~~     552.3       526.8
+Safe Harbor Leases ~~~~~~~~~~~~~~~~       177.5       185.6
+Zero coupon notes ~~~~~~~~~~~~~~~~        103.5        96.0
+Other ~~~~~~~~~~~~~~~~~~~~~~~~~~~         549.0       233.2
+Gross deferred tax liabilities ~~~~~~~~ 2,933.3     2,333.8
+Postretirement benefits ~~~~~~~~~~~~~    (268.0)     (238.4)
+Net operating loss carryforwards ~~~~~   (241.5)     (138.6)
+Restructuring accruals ~~~~~~~~~~~~~      (42.0)      (73.2)
+Deferred state income taxes ~~~~~~~~~     (39.9)      (63.3)
+Various accrued liabilities and other ~~ (697.6)     (383.0)
+Gross deferred tax assets ~~~~~~~~~~~  (1,289.0)     (896.5)
+Deferred tax assets valuation
+  allowance ~~~~~~~~~~~~~~~~~~~~~~        249.0       181.3
+Net deferred tax liability ~~~~~~~~~~~~ $ 1,893.3   $1,618.6
+Included in:
+  "Prepaid expenses, taxes and other
+  current assets" ~~~~~~~~~~~~~~~~~     $ (138.2) $  (107.9)
+  "Other current liabilities" ~~~~~~~~~      23.9       44.2
+  "Deferred Income Taxes" ~~~~~~~~~      2,007.6    1,682.3
+                                        $ 1,893.3   $1,618.6
+
+
+  The valuation allowance related to deferred tax assets rose by
+$67.7 million in 1993 and $38.5 million in 1992, which offset
+higher deferred tax assets arising primarily from increased net
+operating loss carryforwards.  The net operating loss carryfor-
+wards largely relate to a number of foreign and state jurisdictions
+and expire over a range of dates.
+  The deferred tax liability for Safe Harbor Leases (the Leases)
+is related to transactions, which PepsiCo entered into in 1981
+and 1982, that decreased income taxes paid by PepsiCo over the
+initial years of the Leases and are now increasing taxes payable.
+Additional taxes paid in 1993 related to the Leases totaled
+$6.4 million, and taxes payable are estimated to be $40.5 million
+over the next five years.  The provision for income taxes is not
+impacted by the Leases.
+  Deferred tax liabilities have not been recognized for bases
+differences related to investments in foreign subsidiaries
+and joint ventures.  These differences, which consist primarily
+of unremitted earnings intended to be indefinitely reinvested,
+aggregated approximately $3.2 billion at year-end 1993 and
+$2.4 billion at year-end 1992, exclusive of amounts that if
+remitted in the future would result in little or no tax under
+current tax laws and the Puerto Rico tax incentive grant. Deter-
+mination of the amount of unrecognized deferred tax liabilities
+is not practicable.
+
+
+43

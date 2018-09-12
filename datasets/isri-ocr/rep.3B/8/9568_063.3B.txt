@@ -1,0 +1,54 @@
+Financial Information for Textron's Finance and Insurance Subsidiaries
+
+
+Statement of Income
+For each of the three years ended December 31,
+(In millions) 1993 1992	1991
+Revenues
+Interest, discount and service charges $1,260.2 $1,273.2 $1,183.9
+Credit life, credit disability and casualty insurance premiums 300.8 298.5 308.7
+Non-cancellable disability income, life and group insurance premiums 836.2 795.0 764.6
+Investment income (including net realized investment gains) 406.1 360.8 354.8
+  Total revenues 2,803.3 2,727.5 2,612.0
+Costs and expenses
+Selling and administrative 789.7 757.8 702.4
+Interest expense 432.3 488.9 510.4
+Provision for losses on collection of finance receivables, less recoveries 152.6 160.4 134.8
+Credit life, credit disability and casualty insurance losses
+  and adjustment expenses, less recoveries 132.1 137.2 130.1
+Death and other insurance benefits 392.9 369.9 362.3
+Increase in insurance policy liabilities 324.1 316.7 319.8
+Amortization of insurance policy acquisition costs 143.5 131.8 128.5
+  Total costs and expenses 2,367.2 2,362.7 2,288.3
+Income before income taxes 436.1 364.8 323.7
+Income taxes 174.6 138.9 118.1
+Income before cumulative effect of changes in accounting
+  principles 261.5 225.9 205.6
+Cumulative effect of changes in accounting principles, net of income taxes -~ (44.7) -~
+Net income 261.5 181.2 205.6
+Minority interest in net income 2.6 -~ -~
+Textron's equity in net income $ 258.9 $ 181.2 $ 205.6
+
+
+Balance Sheet December 31, December 31,
+(In millions) 1993 1992
+Assets
+Cash $ 14.1 $ 2.9
+Investments 4,759.9 4,144.8
+Finance receivables -~ net 7,605.4 7,069.5
+Property, plant and equipment -~ net 99.0 98.3
+Unamortized insurance policy acquisition costs 783.5 696.3
+Goodwill, less accumulated amortization of $169.6 and $151.0 299.1 317.7
+Other assets 660.1 541.1
+  Total assets $14,221.1 $12,870.6
+Liabilities and equity
+Accounts payable and accrued liabilities (including income taxes) $ 938.7 $ 817.8
+Insurance reserves and claims 4,091.5 3,614.5
+Debt 6,846.7 6,439.7
+Equity:
+  Textron 2,160.8 1,998.6
+  Minority interest 183.4 -~
+    Total liabilities and equity $14,221.1 $12,870.6
+
+
+63

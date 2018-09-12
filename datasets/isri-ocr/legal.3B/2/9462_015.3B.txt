@@ -1,0 +1,42 @@
+8.  Stock Distribution:
+    We recommend 25,000 authorized shares at no par.
+    Total authorized shares:
+    Par Value:
+    Purchase Value/Capital Investment:
+
+    Name   No. of Shares
+
+8a. Is this corporation to be publicly traded?  [If not, delete
+    bold language in C-1-1 at Article 6.]
+
+9.  Who will be representing the corporation in Nevada as Resident
+    Agent?
+
+10. Does the client wish to apply as a Sub-S corporation?
+    (C-8-2)
+    If yes, provide the following information regarding each
+    stockholder and his/her spouse.
+
+    a.  No. Shares:
+    b.  Date(s) acquired:
+    c.  Social Security Number:
+
+    Note:  Client to be advised that tax returns must be filed for
+    shareholders as employees.  (Ref:  Mulligan memo)
+11. Does the client want to adopt 1244 Stock Plan? (C-8-1)
+    
+    a.  Effective date (when all authorized stock will be
+        issued).
+    b.  Maximum consideration for all authorized stock is
+        $1,000,000.
+    c.  Keep accurate records per IRS Code - confirm with
+        accountant.
+
+12. Re:  Nevada Business License and Tax:
+     
+    a.  License ($25):
+
+
+CORPORATE ORGANIZATION
+FORMS C-0-11
+121493  2

@@ -1,0 +1,64 @@
+International Business Machines Corporation and Subsidiary Companies       63
+
+
+Five-Year Comparison of Selected Financial Data
+
+(Dollars in millions except per share amounts)      1993      1992      1991      1990      1989
+
+For the Year:
+Revenue                                             $ 62,716   $ 64,523   $ 64,766   $ 68,931   $ 62,654
+Net (loss) earnings before
+ changes in accounting principles                   (7,987)    (6,865)  (598)     5,967     3,722
+Per share of common stock                           (14.02)    (12.03)  (1.05)    10.42     6.41
+Effect of accounting changes*                       (114)      1,900    (2,263)   -~         -~
+Per share of common stock                           (.20)      3.33     (3.96)    -~         -~
+Net (loss) earnings                                 (8,101)    (4,965)  (2,861)   5,967     3,722
+Per share of common stock                           (14.22)    (8.70)   (5.01)    10.42      6.41 
+Cash dividends paid on common stock                 905        2,765    2,771     2,774     2,752
+Per share of common stock                           1.58       4.84     4.84      4.84      4.73
+Investment in plant, rental machines                
+ and other property                                 3,232      4,698    6,502     6,548     6,410
+Return on stockholders' equity                      -~          -~        -~         14.8%     9.6%
+
+At End of Year:
+Total assets                                        $ 81,113   $ 86,705 $ 92,473  $ 87,568  $ 77,734
+Net investment in plant, rental machines 
+ and other property                                 17,521     21,595	27,578    27,241    24,943
+Working capital					    6,052      2,955 	7,018     13,313    13,875
+Total debt					    27,342     29,320	26,947    19,545    16,717
+Stockholders' equity				    19,738     27,624	36,679    42,553    38,252
+
+*1993, postemployment benefits; 1992, income taxes; 1991, nonpension postretirement benefits.
+
+
+Selected Quarterly Data
+
+(Dollars in millions				    Net	       Per Share Common Stock
+except per share		        Gross	    (Loss)     (Loss)			     Stock Prices
+and stock prices)          Revenue      Profit      Earnings   Earnings    Dividends         High       Low
+
+1993 First quarter         $ 13,058     $ 5,162     $ (399)*   $ (.70)*    $ .54             $ 57.13    $ 45.88
+     Second quarter        15,519       5,974       (8,036)    (14.10)     .54               54.38      47.13
+     Third quarter         14,743       5,602       (48)       (.12)       .25               49.75      40.63
+     Fourth quarter        19,396       7,410       382        .62         .25               59.88      42.13
+
+Total                      $ 62,716     $ 24,148    $ (8,101)  $ (14.22)** $ 1.58
+
+1992 First quarter         $ 14,037     $ 7,133     $ 2,542~   $ 4.45~     $ 1.21            $ 98.13    $ 83.13
+     Second quarter        16,224       7,863       734        1.29        1.21              98.63      81.63
+     Third quarter         14,702       6,779       (2,778)    (4.87)      1.21              100.38     80.00
+     Fourth quarter        19,560       7,679       (5,463)    (9.57)      1.21              81.13      48.75
+
+Total                      $ 64,523     $29,454    $ (4,965)  $ (8.70)    $ 4.84
+
+
+* Includes charge of $114 million, or $.20 per common share, cumulative effect of change in accounting for postemployment benefits.
+** The sum of the quarters' earnings per share does not equal the year-to-date earnings per share due to changes in average shares calculations.
+ This is in accordance with prescribed reporting requirements.
+~ Includes benefit of $1,900 million, or $3.33 per share, cumulative effect of change in accounting for income taxes.
+
+
+There were 741,047 common stockholders of record at December 31, 1993. During 1993, common stockholders received $905 million
+in cash dividends. The regular quarterly common stock cash dividend payable March 10, 1994, will be at the rate of $.25 per share. This
+dividend will be IBM's 316th consecutive quarterly cash dividend. The stock prices reflect the high and low prices for IBM's common
+stock on the New York Stock Exchange composite tape for the last two years.

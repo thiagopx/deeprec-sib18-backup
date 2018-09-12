@@ -1,0 +1,117 @@
+1993 WESTINGHOUSE ANNUAL REPORT
+
+
+NET LIABILITIES OF DISCONTINUED OPERATIONS (in millions)
+At December 31                                         1993      1992
+
+Assets:
+Financial Services:
+Cash and cash equivalents                           $   416   $   752
+Portfolio investments, net                            1,127     5,329
+Deferred income taxes (note 5)                          560       634
+Other assets                                            179       127
+Total assets-~Financial Services                    2,282     6,842
+Other Operations:
+Cash and cash equivalents                               195        33
+Customer receivables                                    356       347
+Inventories                                             373       393
+Other current assets                                     13        -~
+Plant and equipment, net                                360       375
+Accrued estimated gain on sale of
+  Discontinued Operations                               441       449
+Accrued operating income, net                           (64)       -~
+Other noncurrent assets                                 196       186
+Total assets-~Other Operations                      1,870     1,783
+Total assets-~Discontinued Operations               4,152     8,625
+
+Liabilities and Minority Interest:
+Financial Services:
+Thrift deposits                                          -~       693
+Other liabilities                                        54       151
+Accrued operating expenses                               75       287
+Minority interest                                        -~       102
+Total liabilities and minority interest
+  excluding debt-~Financial Services                  129     1,233
+
+Other Operations:
+Accounts payable                                        182       190
+Other current liabilities                               102       145
+Deferred income taxes (note 5)                          145       122
+Other noncurrent liabilities                             11        13
+Total liabilities excluding debt-~Other Operations      440       470
+Short-term debt (note 11)                              2,373     4,559
+Current maturities of long-term debt (note 13)          774       877
+Long-term debt (note 13)                                647     1,602
+Total liabilities and minority interest-~
+  Discontinued Operations                             4,363     8,741
+Net liabilities of Discontinued Operations          $   211   $   116
+
+
+Financial Services
+Revenue Recognition
+Financial Services revenues are recognized generally on the
+accrual method, except that revenues for real estate accounts are
+being recognized only as payments are received.
+  When accrual method accounts become delinquent for more
+than two payment periods, usually 60 days, income is recog-
+nized only as payments are received.  Such delinquent accounts
+and all real estate accounts for which no payments are received
+
+
+in the current month, and other accounts on which income is
+not being recognized because the receipt of either principal or
+interest is questionable, are classified as nonearning receivables.
+
+Investment Tax Credit
+The investment tax credit earned prior to its repeal on property
+leased to others has been deferred and is recognized as income
+over the contractual terms of the respective leases.
+
+Portfolio Investments
+Portfolio investments by category of investment and financing
+at December 31, 1993 and 1992, are summarized in the
+table below.
+
+
+PORTFOLIO INVESTMENTS (in millions)
+
+                                    Real     Cor-
+                                  Estate   porate   Leasing  Total
+
+At December 31, 1993
+Receivables                       $   46   $   47   $  969   $1,062
+Real estate properties               141       -~       -~      141
+Investments in partnerships and
+  other entities                     212       82       39      333
+Nonmarketable equity securities       -~       15       -~       15
+  Portfolio investments              399      144    1,008    1,551
+Valuation allowance                 (353)     (26)     (45)    (424)
+  Portfolio investments, net      $   46   $  118   $  963   $1,127
+
+At December 31, 1992
+Marketable securities             $  241   $   -~   $   -~   $  241
+Receivables                        3,442    2,140    1,146    6,728
+Real estate properties               663       -~       -~      663
+Investments in partnerships and
+  other entities                     402      457       36      895
+Nonmarketable equity securities       -~      332       -~      332
+Equipment on operating leases         -~       -~      101      101
+Collateral held for resale            -~       -~        7        7
+  Portfolio investments            4,748    2,929    1,290    8,967
+Valuation allowance               (2,696)    (885)     (57)  (3,638)
+  Portfolio investments, net      $2,052   $2,044   $1,233   $5,329
+
+
+  Real estate receivables consist of loans for commercial and
+residential real estate properties.  At December 31, 1993, the
+remaining real estate receivables were primarily residential
+loans.  Real estate properties were acquired through foreclosure
+proceedings or represent "in-substance" foreclosures and are
+being operated by Financial Services or contracted professional
+management until sold.  Real estate investments in partnerships
+at December 31, 1993 was comprised primarily of the Corpo-
+ration's investment in LW Real Estate Investments, L.P., which
+totalled $133 million at year-end.
+
+
+39

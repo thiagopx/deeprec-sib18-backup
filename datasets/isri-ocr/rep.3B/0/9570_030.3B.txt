@@ -1,0 +1,93 @@
+Notes to Consolidated Financial Statements
+Unisys Corporation
+
+1. Summary of significant accounting policies
+
+Principles of consolidation
+The consolidated financial statements include the accounts of all
+wholly owned subsidiaries. Investments in companies representing
+ownership interests of 20% to 50% are accounted for by the equity
+method.
+
+Cash equivalents
+All short-term investments purchased with a maturity of three
+months or less are classified as cash equivalents.
+
+Marketable securities 
+Marketable securities, consisting principally of U.S. Government 
+securities, are carried at cost plus accrued interest, which approxi-
+mates market.
+
+Inventories 
+Inventories are valued at the lower of cost or market. Cost is deter-
+mined principally on the first-in, first-out method.
+
+Properties, rental equipment and depreciation
+Properties and rental equipment are carried at cost and are depreci-
+ated over the estimated lives of such assets using the straight-line
+method. Leasehold improvements are amortized over the shorter of
+the asset lives or the terms of the respective leases. The principal
+rates used are summarized below by classification of properties:
+
+
+Rate per Year (%)
+Buildings 2-5
+Machinery and equipment	5-25
+Tools and test equipment 10-33~~~
+Rental equipment 25
+
+
+Revenue recognition
+Sales revenue is generally recorded upon shipment of product in the 
+case of sales contracts, upon shipment of the program in the case of
+software, and upon installation in the case of sales-type leases.
+Revenue from service and rental agreements is recorded as earned
+over the lives of the respective contracts.
+
+
+Revenue under cost-type contracts is recognized when costs are
+incurred, and under fixed-price contracts when products or services
+are accepted and billings can be made. General and administrative 
+expenses are charged to income as incurred. Cost of revenue under
+long-term contracts is charged based on current estimated total 
+costs. When estimates indicate a loss under a contract, cost of rev-
+enue is charged with a provision for such loss.
+
+Income taxes
+Income taxes are provided on taxable income at the statutory rates
+applicable to such income. Deferred taxes have not been provided 
+on the cumulative undistributed earnings of foreign subsidiaries
+since such amounts are expected to be reinvested indefinitely.
+
+Earnings per common share
+In 1993 and 1992, the computation of primary earnings per share was
+based on the weighted average number of outstanding common
+shares and additional shares assuming the exercise of stock options.
+The computation of fully diluted earnings per share for both years
+further assumes the conversion of the 8~~~% convertible subordinated 
+notes due August 1, 2000. The computation of fully diluted earnings
+per share for 1993 further assumes conversion of Series A Cumu-
+lative Convertible Preferred Stock. In 1991, both primary and fully
+diluted earnings per common share were based on the weighted 
+average number of outstanding common shares. The inclusion of
+additional shares assuming the conversion of Series A Cumulative
+Convertible Preferred Stock would have been antidilutive in 1992
+and 1991. The shares used in the computations for the three years 
+ended December 31, 1993 were as follows (in thousands):
+
+
+1993 1992 1991
+Primary 165,070	163,725	161,552
+Fully diluted 246,550 181,813 161,552
+
+
+Cost in excess of net assets acquired
+Cost in excess of net assets acquired represents the excess of cost
+over fair value of the net assets of Sperry Corporation and 
+Convergent, Inc., which is being amortized on the straight-line
+method over 40 years and 12 years, respectively. Accumulated amor-
+tization at December 31, 1993 and 1992 was $524.7 and $483.4 mil-
+lion, respectively.
+
+
+30

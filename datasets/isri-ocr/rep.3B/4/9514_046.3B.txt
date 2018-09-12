@@ -1,0 +1,114 @@
+  See note 8 for further information on GECS' allowance
+for losses on financing receivables.
+
+Cash equivalents. Marketable securities with original matu-
+rities of three months or less are included in cash equiva-
+lents unless held for trading or investment.
+
+Investment and trading securities. On December 31, 1993,
+the Company adopted Statement of Financial Accounting
+Standards (SFAS) No. 115, Accounting for Certain Invest-
+ments in Debt and Equity Securities, which requires that invest-
+ments in debt securities and marketable equity securities
+be designated as trading, held-to-maturity or available-
+for-sale.  Trading securities are reported at fair value, with
+changes in fair value included in earnings.  Investment se-
+curities include both available-for-sale and held-to-matu-
+rity securities.  Available-for-sale securities are reported at
+fair value, with net unrealized gains and losses that would
+be available to share owners included in equity.  Held-to-
+maturity debt securities are reported at amortized cost.
+See notes 10 and 11 for a discussion of the classification
+and reporting of these securities at December 31, 1992.
+For all investment securities, unrealized losses that are
+other than temporary are recognized in earnings.
+
+Securities sold under agreements to repurchase (repurchase
+agreements) and securities purchased under agreements to resell
+(reverse repurchase agreements).  Repurchase and reverse re-
+purchase agreements are entered into by Kidder, Peabody
+and treated as financing transactions, carried at the con-
+tract amount at which the securities subsequently will be
+resold or reacquired.  Repurchase agreements relate either
+to marketable securities, which are carried at market val-
+ue, or to securities obtained pursuant to reverse repur-
+chase agreements.  It is Kidder, Peabody's policy to take
+possession of securities subject to reverse repurchase
+agreements, to monitor the market value of the underly-
+ing securities in relation to the related receivable, includ-
+ing accrued interest, and to obtain additional collateral
+when appropriate.
+
+Inventories.  Virtually all of GE's U.S. inventories are stated
+on a last-in, first-out (LIFO) basis; other inventories are
+primarily stated on a first-in, first-out (FIFO) basis.  None
+of the inventories exceed realizable values.
+
+Intangible assets.  Goodwill is amortized over its estimated
+period of benefit and other intangible assets over their esti-
+mated lives.  The amortization period does not exceed 40
+years, and amortization is generally on a straight-line basis.
+Goodwill in excess of associated expected operating cash
+flows is considered to be impaired and is written down to
+fair value.
+
+Deferred insurance acquisition costs.  For the property and
+casualty business, deferred insurance acquisition costs are
+amortized pro rata over the contract periods in which the
+related premiums are earned.  For the life insurance busi-
+ness, these costs are amortized over the premium-paying
+
+
+periods of the contracts in proportion either to anticipated
+premium income or to gross profit, as appropriate.  For cer-
+tain annuity contracts, such costs are amortized on the ba-
+sis of anticipated gross profits.  For other lines of business,
+acquisition costs are amortized over the life of the related
+insurance contracts.  Deferred insurance acquisition costs
+are reviewed for recoverability; for short-duration con-
+tracts, anticipated investment income is considered in
+making recoverability evaluations.
+
+Note 2 Discontinued Operations
+
+On April 2, 1993, General Electric Company transferred
+GE's Aerospace business segment, GE Government
+Services, Inc., and an operating component of GE that
+operated Knolls Atomic Power Laboratory under a
+contract with the U.S. Department of Energy to a new
+company controlled by the shareholders of Martin
+Marietta Corporation in a transaction valued at $3.3
+billion.  The transfer resulted in a gain of $678 million
+after taxes of $752 million.  Net assets of discontinued
+operations at December 31, 1992, have been segregated in
+the Statement of Financial Position. Summary operating
+results of discontinued operations, excluding the above
+gain, are as follows.
+
+
+(In millions)                   1993     1992     1991
+Revenues                        $996   $5,231   $5,631
+Earnings before income taxes     119      668      710
+Provision for income taxes        44      248      259
+Net earnings from discontinued 
+  operations                      75      420      451
+
+
+Note 3 GE Other Income
+
+
+(In millions)                    1993   1992   1991
+Royalty and technical
+  agreements                     $371   $384   $394
+Marketable securities and bank
+  deposits                         75     73     78
+Associated companies               65    195    156
+Customer financing                 29     40     71
+Other investments
+  Dividends                        50     18      3
+  Interest                         21     22     18
+Other sundry items                119     80     78
+                                 $730   $812   $798
+
+
+46

@@ -1,0 +1,55 @@
+The deferred tax (liabilities) assets are comprised of the following:
+
+
+                                                        December 26, 1993  December 27, 1992
+Depreciation                                                $  (998,207)   $  (878,415)
+Depletion                                                       (86,265)       (79,153)
+Capitalized interest and taxes -~ real estate development       (76,014)       (73,111)
+Other                                                          (126,471)      (140,442)
+Total deferred tax (liabilities)                             (1,286,957)    (1,171,121)
+Pension and retiree health care                                 118,311        111,633
+Restructure reserves                                             80,354        127,496
+Alternative minimum tax credit carryforward                      69,619         33,709
+Other                                                           209,318        213,112
+Total deferred tax assets                                       477,602        485,950
+                                                            $  (809,355)   $  (685,171)
+
+
+  As of December 26, 1993, the company has avail-
+able approximately $70 million of alternative mini-
+mum tax credit carryover, which does not expire,
+and $7 million of investment tax credit carryover in
+Canada, expiring as follows: $1 million in 1997,
+$4 million in 1998, and $2 million in 2003.
+
+
+  The company intends to reinvest undistributed
+earnings of certain foreign subsidiaries; therefore,
+no U.S. taxes have been provided.  These earnings
+totaled approximately $318 million at the end of
+1993.  While it is not practicable to determine the
+income tax liability that would result from repatriation,
+it is estimated that withholding taxes payable upon
+repatriation would approximate $32 million.
+
+
+NOTE 6:
+Extraordinary Item
+In 1993 the company realized a net gain of $52,052 ($85,784 less related tax effect of $33,732) as a result of
+extinguishing certain debt obligations.
+
+NOTE 7:
+Pension Plans
+Net annual pension cost includes the following components:
+
+
+                                                              1993        1992        1991
+Service cost-benefits earned during the period           $  38,563   $  33,745   $  27,947
+Interest cost on projected benefit obligation               92,688      86,295      78,457
+Actual return on plan assets                              (279,563)   (123,178)   (236,943)
+Net amortization and deferrals                             165,494      16,727     143,942
+Pension expense due to sales, closures and SFAS No. 88      (1,302)         -~          -~
+                                                         $  15,880   $  13,589   $  13,403
+
+
+58

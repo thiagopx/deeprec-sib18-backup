@@ -1,0 +1,78 @@
+  Operating results of Grace's discontinued operations subsequent to their classification as such have been
+consistent with amounts originally estimated and are recorded against established reserves. Operating results
+prior to classification as discontinued operations and sales and revenues for the three years ended
+December 31, 1993, 1992 and 1991 were as follows:
+
+
+1993 1992 1991 
+Cocoa
+  Sales and revenues ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~    $ 635.8     $ 683.5    $705.0
+  (Loss)/income from operations before taxes(1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   $ (5.6)     $   1.8    $  28.6
+  Income tax benefit/(provision) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   1.0          .4     (11.8)
+  (Loss)/income from discontinued operations ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   $   (4.6)     $   2.2    $  16.8
+
+Battery Separators and EMS
+  Sales and revenues ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   $ 387.9     $ 413.6    $401.7
+  Income from operations before taxes(1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   $   4.7     $  29.1    $  23.7
+  Income tax (provision) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   (2.1)      (10.1)      (8.0)
+  Income from discontinued operations ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   $   2.6     $  19.0    $  15.7
+
+Grace Energy
+  Sales and revenues ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  $ 234.8     $ 515.0    $479.2
+  (Loss) from operations before taxes(1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   -~     $ (11.1)    $ (25.6)
+  Income tax benefit ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   -~         6.6        9.7
+  (Loss) from discontinued operations ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   -~     $ (4.5)    $ (15.9)
+
+Grace Distribution
+  Sales and revenues ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   -~     $ 178.0    $780.4
+  (Loss) from operations before taxes(1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   -~     $ (2.8)    $  (.1)
+  Income tax benefit ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   -~          .9         .1
+  (Loss) from discontinued operations ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   -~     $ (1.9)    $     -~
+
+Other
+  Sales and revenues ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  $  69.7     $  96.5    $ 102.4
+  (Loss) from operations before taxes(1) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   $ (1.7)     $ (13.4)    $ (2.7)
+  Income tax benefit ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   0.3         3.5        3.0
+  (Loss)/income from discontinued operations ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  $ (1.4)     $ (9.9)    $    .3
+Total operating results of discontinued operations ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   $ (3.4)     $   4.9    $  16.9
+Net pretax (loss) on disposals of operations ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~                     (127.3)     (255.1)          -~
+Income tax benefit on disposals of operations ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   22.3        88.0          -~
+Total (loss)/income from discontinued operations ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   $(108.4)    $(162.2)   $  16.9
+
+
+(1)Reflects an allocation of interest expense based on (a) a ratio of the net assets of the businesses classified as discontinued
+operations in the second quarter of 1993 as compared to Grace's total capital and (b) Grace's incremental borrowing rate 
+applied to both the expected proceeds from the divestment of Grace Energy and to the net assets of Grace Distribution through
+the dates of their respective sales, assuming that amounts received from the divestment of these businesses are used to reduce
+debt. The above operating results for the periods prior to classification as discontinued operations include interest expense
+allocations of $2.5, $38.6 and $67.6 for 1993, 1992 and 1991, respectively.
+
+
+  For financial reporting purposes, the assets, liabilities, results of operations and cash flows of Grace Cocoa
+Associates, L.P. (LP) are included in Grace's consolidated financial statements as a component of discontinued 
+operations, and the outside investors' interest in LP is reflected as a minority interest in the Consolidated Balance
+Sheet. See Note 12 for a further discussion of LP.
+  Net assets of Grace's discontinued operations (excluding intercompany assets) at December 31, 1993 were
+
+
+as follows:
+
+
+Battery 
+Separators   Grace 
+Cocoa  and EMS   Energy   Other  Total
+
+
+Current assets~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  $218.6    $114.3     $   14.8      $   54.4    $  402.1
+Properties and equipment, net~~~~~~~~~~~~~~~~~~~~~~~~   170.3      157.2        134.0          38.8       500.3
+Investments in and advances to
+  affiliated companies~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   -~          4.8          4.1          40.2        49.1
+Other noncurrent assets~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   41.8       25.4         11.4          47.0       125.6
+  Total assets~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~   $430.7     $301.7     $164.3      $180.4    $1,077.1
+Current liabilities~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $127.4   $   38.9     $   14.9      $   23.1    $  204.3
+Other noncurrent liabilities~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~    63.7        28.7         19.7          (.6)       111.5
+  Total liabilities~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  $191.1      $   67.6     $   34.6      $   22.5    $  315.8
+  Net assets~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  $239.6       $234.1     $129.7      $157.9    $  761.3
+
+
+36

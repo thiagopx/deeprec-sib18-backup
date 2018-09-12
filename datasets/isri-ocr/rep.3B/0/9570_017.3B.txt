@@ -1,0 +1,52 @@
+  We introduced a variety of innovative solutions in 1993. For the financial market, for instance, new solutions
+include FBA Navigator, which helps banks improve the delivery of services to their customers at retail locations,
+and FBA BANKview, which provides an integrated view of information scattered across a bank's diverse systems.
+For the public sector market, our new LifeLine solution is the first computer-aided dispatch system for medium to
+large emergency response organizations that is based on workstation and local-area network technology. Like a 
+
+
+growing number of our software solutions, these 
+systems are based on flexible client/server archi-
+tectures designed for easy integration with other 
+vendors' systems.
+  To ensure we deliver truly value-added solu-
+tions, we involve our clients throughout the devel-
+opment process. We built FBA Navigator and FBA 
+BANKview, for instance, in consultation with key 
+banking partners. LifeLine reflects the input of
+police chiefs and dispatchers.
+  Alliances with outside industry partners are
+also key to our approach. Through our alliance 
+with KPMG Peat Marwick, for instance, we offer
+our clients a broad base of industry expertise as
+well as specific software solutions for financial
+management, human resources, and process man-
+ufacturing. An alliance with software provider
+
+
+Information Technology, Inc., which provides a leading banking package running on our A Series systems, has
+helped us win new banking, savings and loan, and credit union clients.
+  In our services engagements, and in our solutions, we are making increasing use of the skills and underlying
+technologies of our Government Systems Group. Joint government and commercial teams are evaluating commer-
+cial projects in such potential growth areas as airport automation and fingerprint imaging. In another area, we are
+working with Time Warner to evaluate applying our spread spectrum technology -~ originally used to ensure the
+secure communication of information for military purposes -~ to improve the security and capability of tomorrow's
+cable television networks.
+  In 1994 we will continue an active expansion of our information services program. We look to build our repu-
+tation as a world-class provider of information services, and continue our strong growth in this dynamic market.
+
+
+The skies above the United States are the busiest in the world -~ and 
+becoming busier. To handle this growing volume of traffic, the U.S.
+Federal Aviation Administration is partnering with Unisys on a major 
+effort to upgrade the systems used to manage air traffic at the 200
+largest airports. A new radar system, jointly developed by Unisys and
+Westinghouse, improves aircraft surveillance and allows air traffic con-
+trollers to deliver critical messages to pilots electronically, minimizing
+use of busy cockpit channels. The enhanced radar system sets the new
+international standard for air traffic safety. Another new system from
+Unisys provides controllers a magnified, color view of parallel runways,
+allowing them to handle multiple landings.
+
+
+17

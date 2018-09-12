@@ -1,0 +1,68 @@
+All Programs, Documentation and Data copyright (c) 1996 Regents of the
+University of Nevada, All Rights Reserved.  May not be reproduced in whole
+or in part without written permission from UNLV.
+
+For more information, contact:
+    Dr. Thomas Nartker
+    Information Science Research Institute
+    University of Nevada, Las Vegas
+    Box 454021
+    Las Vegas, NV 89154-4021
+    (702) 895-3338 (Voice)
+    (702) 895-1183 (Fax)
+    Email: isri-info@isri.unlv.edu
+
+
+This README file contains general information regarding the file naming
+conventions used on all volumes in this collection.  For specific information
+about the contents of individual volumes, consult the file(s) README.Vn on
+the appropriate CD.
+
+
+Explanation of Filenames Used in Samples:
+-----------------------------------------
+
+	A sample page is identified by a page id of the form DDDD_PPP where
+	DDDD indicates the document number, and PPP indicates the page number
+	within the document.
+
+	A given page has multiple TIFF image files:
+
+	    From a Fujitsu M3096G scanner
+
+		DDDD_PPP.2B	200 dpi binary, fixed thresholding
+		DDDD_PPP.3B	300 dpi binary, fixed thresholding
+		DDDD_PPP.4B	400 dpi binary, fixed thresholding
+		DDDD_PPP.3G	300 dpi 8-bit grayscale
+		DDDD_PPP.3A	300 dpi binary, Fujitsu adaptive thresholding
+
+	    From a Xerox 7024 fax machine
+
+		DDDD_PPP.SF	standard-mode fax
+		DDDD_PPP.FF	fine-mode fax
+
+	There is an ASCII zone file for each image file (except .3A files):
+
+		DDDD_PPP.2BZ
+		DDDD_PPP.3BZ
+		DDDD_PPP.4BZ
+		DDDD_PPP.3GZ
+		DDDD_PPP.SFZ
+		DDDD_PPP.FFZ
+
+        There is one ASCII ground-truth text file for each zone defined on
+	the page.  The ground-truth for the first zone defined in a zone file
+	can be found in DDDD_PPP.Z01.  The ground-truth for the second zone can
+        be found in DDDD_PPP.Z02, and so on.
+
+	A complete list of page ids is stored in PAGES.  The files PAGES_1,
+	PAGES_2, ..., PAGES_5 indicate which pages belong to which Page Quality
+	Groups.  For the Spanish Newspaper Sample, the files PAGES.ARG,
+	PAGES.MEX, and PAGES.SPA indicate which pages originated in Argentina,
+	Mexico, and Spain, respectively.
+
+	Lastly, ZTYPES contains a list of the zone types that were used when
+	manually zoning the pages of a sample.
+
+
+

@@ -1,0 +1,49 @@
+Statements
+of Cash Flows
+
+
+TRW Inc. and subsidiaries
+In millions
+Years ended December 31	1993 1992 1991
+
+Operating activities
+Net earnings(loss) $ 195 $(156)   $(140)
+Adjustments to reconcile net earnings(loss) to
+net cash provided by operating activities:
+Cumulative effect of accounting changes, net of taxes 25 350 -~
+Depreciation and amortization 458 481 469
+Restructuring (61) (96) 227
+Deferred income taxes 49 5 27
+Other-net 12 25 47
+Changes in assets and liabilities, net of
+effects of businesses acquired or sold:
+Accounts receivable (46) (104) (56)
+Inventories and prepaid expenses (5) (46) 22
+Accounts payable and other accruals (107) 227 30
+Other-net (30) (42) (14)
+Net cash provided by operating activities 490 644 612
+
+Investing activities
+Capital expenditures (482) (530) (537)
+Proceeds from divestitures 97 371 52
+Investments in other assets (51) (62) (95)
+Proceeds from sales of property, plant and equipment 24 11 51
+Other-net (11) 11 (25)
+Net cash used in investing activities (423) (199) (554)
+Financing activities
+Increase(decrease) in short-term debt 104 (229) 69
+Proceeds from debt in excess of 90 days 255  198  462
+Principal payments on debt in excess of 90 days (344) (351) (495)
+Dividends paid (120) (114) (111)
+Other-net 33 18 4
+Net cash used in financing activities (72) (478) (71)
+Effect of exchange rate changes on cash 18 24 16
+Increase(decrease) in cash and cash equivalents 13 (9) 3
+Cash and cash equivalents at beginning of year 66 75 72
+Cash and cash equivalents at end of year $ 79 $ 66 $ 75
+
+
+See notes to financial statements.
+
+
+26

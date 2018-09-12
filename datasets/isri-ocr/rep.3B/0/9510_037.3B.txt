@@ -1,0 +1,120 @@
+In millions, except for share amounts
+
+
+M  Pension Plans and Other Postemployment Benefits
+The Company has defined benefit pension plans which cover
+employees in the U.S. and a number of foreign countries.  The
+Company's funding policy is to contribute annually, at a rate that is
+intended to approximate a level percentage of compensation for the
+covered employees, to those plans where pension laws and eco-
+nomics either require or encourage funding.
+
+The U.S. funded plan is the largest plan.  Its benefits are based
+on length of service and the employee's three-highest consecutive
+years of compensation.  The weighted average discount rate and rate
+of increase in future compensation levels used in determining the
+actuarial present value of the projected benefit obligations were
+7.25 and 5.5 percent, respectively, for 1993 and 8.25 and 6 per-
+cent, respectively, for 1992.  The assumed long-term rate of return
+on assets was 9 percent for 1993 and 9 percent for 1992.
+
+All other pension plans used assumptions in determining the
+actuarial present value of the projected benefit obligations that are
+consistent with (but not identical to) those of the U.S. plan.
+
+The funded status of fully funded, significant defined benefit
+plans for the Company was as follows:
+
+
+Fully Funded Defined Benefit Plans at December 31
+
+								1993		1992
+Accumulated benefit obligation, including vested benefits
+	of $(3,173) in 1993 and $(2,718) in 1992		$(3,497)	$(2,913)
+	
+Projected benefit obligation for services rendered to date	 (4,335)	 (3,752)
+Plan assets at market value, primarily listed
+	stocks and bonds					 4,534		 4,190
+Plan assets in excess of projected benefit obligation		   199		   438
+Unrecognized transition obligation				    29		    33
+Unrecognized (gain) from experience favorable
+	to assumptions						   (84)		  (386)
+Prior service cost not yet recognized in pension cost		    (4)		    15
+Prepaid pension cost						$  140		$  100
+
+
+The funded status of partially funded, significant defined
+benefit plans for the Company was as follows:
+
+
+Partially Funded Defined Benefit Plans at December 31
+
+								1993		1992
+Accumulated benefit obligation, including vested benefits
+	of $(361) in 1993 and $(197) in 1992			$(411)		$(219)
+Projected benefit obligation for services rendered to date	 (575)		 (333)
+Plan assets at market value, primarily listed
+	stocks and bonds					  208		   78
+Plan assets (less than) projected benefit obligation		 (367)		 (255)
+Unrecognized transition obligation				   35		   36
+Unrecognized (gain) loss from experience
+	favorable to assumptions				   51		  (17)
+Prior service cost not yet recognized in pension cost		   48		   33
+Additional minimum liability					  (8)		  (13)
+Accrued pension cost						$(241)		$(216)
+
+
+The net periodic pension cost for all significant defined benefit
+plans was as follows:
+
+
+Net Periodic Pension Cost
+
+								1993		1992		1991
+Service cost-benefits earned during the period			$ 152		$ 122		$ 101
+Interest cost on projected benefit obligation			  333		  306		  271
+Actual (return) on assets					 (494)		 (341)		 (725)
+Amortization and deferred amounts				  153		   47		  459
+Employee contributions to the plans				   (8)		   (9)		   (8)
+Net periodic pension cost					$ 136		$ 125		$  98
+
+
+Defined contribution plans cover employees in Australia, New
+Zealand, Spain, the United Kingdom and some U.S. subsidiaries.
+In addition, employees in the U.S. are eligible to participate in
+defined contribution plans (Employee Savings Plans) by contribut-
+ing a portion of their compensation.  The Company matches com-
+pensation, depending on Company profit levels.  Contributions
+charged to income for defined contribution plans were $92 in
+1993, $98 in 1992 and $89 in 1991.
+
+In addition to providing pension benefits, the Company pro-
+vides certain health care and life insurance benefits to retired
+employees.  As discussed in Note A, the Company adopted FASB
+Statement No. 106 effective January 1, 1992.  Previously, the
+Company recognized the cost of providing these benefits as the
+benefits were paid.  These pretax costs amounted to $53 in 1991.
+The Company continues to fund most of the cost of these medical
+and life insurance benefits in the year incurred.
+
+The U.S. plan covering the parent company is the largest plan.
+It provides medical and life insurance benefits including hospital,
+physicians' services and major medical expense benefits and life
+insurance benefits.  The plan provides benefits supplemental to 
+Medicare after retirees are eligible for these benefits.  The cost of
+these benefits are shared by the Company and the retiree, with the
+Company portion increasing as the retiree has increased years of 
+credited service.  The Company has the ability to change these 
+benefits at any time.
+
+Effective October 1993, the Company amended its health
+benefits plan in the U.S. to cap the cost absorbed by the Company
+at approximately twice the 1993 cost per person for employees who
+retire after December 31, 1993.  The effect of this amendment was
+to reduce the December 31, 1993 accumulated postretirement
+benefit obligation by $327.  It also reduced the net periodic postre-
+tirement cost by $21 for 1993 and is estimated to reduce this cost
+for 1994 by approximately $83.
+
+
+THE DOW CHEMICAL COMPANY AND SUBSIDIARIES		37

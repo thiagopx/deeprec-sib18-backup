@@ -1,0 +1,62 @@
+International Business Machines Corporation and Subsidiary Companies           34
+
+
+(Dollars in millions)
+
+For the year ended December 31:                                1993          1992         1991
+
+Cash Flow from Operating Activities:
+Net loss                                                       $ (8,101)     $ (4,965)    $ (2,861)
+Adjustments to reconcile net loss to cash 
+ provided from operating activities:
+Effect of changes in accounting principles                     114           (1,900)      2,263
+Effect of restructuring charges                                5,230         8,312        2,793
+Depreciation                                                   4,710         4,793        4,772
+Amortization of software                                       1,951         1,466        1,564
+Loss (gain) on disposition of investment assets                151           54           (94)
+Other changes that provided (used) cash:
+ Receivables                                                   1,185         1,052        (886)
+ Inventories                                                   583           704          (36)
+ Other assets                                                  (10)          (3,396)      5
+ Accounts payable                                              359           (311)        384
+ Other liabilities                                             2,155         465          (1,179)
+
+Net cash provided from operating activities                    8,327         6,274        6,725
+
+Cash Flow from Investing Activities:
+Payments for plant, rental machines and other property         (3,154)       (4,751)      (6,497)                  
+Proceeds from disposition of plant, rental machines
+ and other property                                            793           633          645
+Investment in software                                         (1,507)       (1,752)      (2,014)
+Purchases of marketable securities and other investments       (2,721)       (3,284)      (4,848)
+Proceeds from marketable securities and other investments      2,387         3,276        5,028
+
+Net cash used in investing activities                           (4,202)       (5,878)      (7,686)
+
+Cash Flow from Financing Activities:
+Proceeds from new debt                                         11,794        10,045       5,776
+Payments to settle debt                                        (8,741)       (10,735)     (4,184)
+Short-term borrowings less than 90 days -~ net                 (5,247)       4,199        2,676
+Proceeds from preferred stock                                  1,091         -~            -~
+Common stock transactions-~net                                 122           (90)         67
+Payments to purchase and retire common stock                   -~             -~            (196)
+Cash dividends paid                                            (933)         (2,765)      (2,771)
+
+Net cash (used in) provided from financing activities          (1,914)       654          1,368
+
+Effect of exchange rate changes on cash and
+ cash equivalents                                              (796)         (549)        (315)
+
+Net change in cash and cash equivalents                        1,415         501          92
+
+Cash and cash equivalents at January 1                         4,446         3,945        3,853
+
+Cash and cash equivalents at December 31                       $ 5,861       $ 4,446      $ 3,945
+
+Supplemental Data:
+Cash paid during the year for:
+Income taxes                                                   $ 452         $ 1,297      $ 2,292
+Interest                                                       $ 2,410       $ 3,132      $ 2,617
+
+
+The notes on pages 36 through 62 are an integral part of this statement.

@@ -1,0 +1,64 @@
+THE COCA-COLA COMPANY AND SUBSIDIARIES
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+Total pension expense for all benefit plans, including defined benefit plans, amounted to approximately $57 million in 1993, $49
+million in 1992 and $42 million in 1991.  Net periodic pension cost for the Company's defined benefit plans consists of the follow-
+ing (in millions):
+
+
+						       		U.S. Plans			International Plans
+Year Ended December 31,			       		1993	  1992	   1991			1993	1992	1991
+
+Service cost-benefits earned during the period		$  17	$  15	$  13			$  17	$  18	$  16
+Interest cost on projected benefit obligation		   53	   50	   46			   22	   20	   18
+Actual return on plan assets				  (77)	  (36)	 (113)			  (27)	  (19)	  (18)
+Net amortization and deferral				   31	   (9)	   71			   13	    3	    1
+Net periodic pension cost				$  24	$  20	$  17			$  25	$  22	$  17
+
+
+The funded status for the Company's defined benefit plans is as follows (in millions):
+
+									U.S. Plans		 			International Plans
+							Assets Exceed		Accumulated Benefits		Assets Exceed         Accumulated Benefits
+						  Accumulated Benefits	           Exceed Assets	    Accumulated Benefits         Exceed Assets
+
+December 31,						1993	1992		1993	1992			1993	1992             1993       1992
+Actuarial present value of benefit obligations
+Vested benefit obligation				$ 481	$ 401		$ 109	$  82			$ 139	$ 119            $ 110      $  90
+
+Accumulated benefit obligation				$ 523	$ 431		$ 111	$  89			$ 151	$ 127            $ 126      $ 100
+
+Projected benefit obligation				$ 598	$ 520		$ 133	$ 101			$ 196	$ 167            $ 177      $ 148
+Plan assets at fair value1				631	587		2	1			200	188                 94       73
+
+Plan assets in excess of (less than)
+projected benefit obligation				33	67		(131)2	(100)2			4	21                (83)       (75)
+Unrecognized net (asset) liability at transition	(34)	(37)		17	19			(16)	(6)               34          33
+Unrecognized prior service cost				8	23		15	3			-~	-~                9           8
+Unrecognized net (gain) loss				(24)	(61)		36	24			28	2                 (3)         (3)
+Adjustment required to recognize		
+	minimum liability				-~	-~		(46)	(33)			-~	-~                 (7)        (3)
+
+Accrued pension asset (liability) included
+in the consolidated balance sheet 			$ (17)	$ (8)		$(109)	$ (87)			$ 16	$ 17              $ (50)      $ (40)
+
+
+1Primarily listed stocks, bonds and government securities.
+2Substantially all of this amount relates to nonqualified, unfunded defined benefit plans.
+
+
+The assumptions used in computing the preceding information are as follows:
+
+												International Plans
+							U.S. Plans				(weighted average rates)
+
+Year Ended December 31,				1993	1992	1991				1993	1992	1991
+
+Discount rates					7~~~%	8~~~%	9%				6~~~%	7%	7~~~%
+Rates of increase in compensation levels	4~~~%	6%	6%				5%	5~~~%	6%
+Expected long-term rates of return on assets	9~~~%	9~~~%	9~~~%				7%	7%	7~~~%
+
+
+65

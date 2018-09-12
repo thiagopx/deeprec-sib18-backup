@@ -1,0 +1,60 @@
+Consolidated Statement of Cash Flows
+
+
+Chrysler Corporation and Consolidated Subsidiaries
+											YEAR ENDED DECEMBER 31
+In millions of dollars								1993		1992		1991
+CASH FLOWS FROM OPERATING ACTIVITIES:
+Net earnings (loss)								$ (2,551)	$ 723		$ (795)
+Adjustments to reconcile to net cash provided by operating activities:
+	Depreciation and amortization						1,640		1,610		1,465
+	Provision for restructuring charge					-		101		-
+	Plant capacity adjustment						-		-		(391)
+	Provision for credit losses						209		345		579
+	Deferred income taxes							803		229		(288)
+	Gain on sales of automotive assets and investments			(265)		(142)		(205)
+	Cumulative effect of changes in accounting principles			4,966		(218)		257
+	Change in accounts receivable						49		100		1,801
+	Change in inventories							(557)		535		(167)
+	Change in prepaid expenses and other assets				(1,472)		(51)		(492)
+	Change in accounts payable and accrued and other liabilities		183		525		1,152
+	Other									47		(8)		(22)
+
+Net Cash Provided by Operating Activities					3,052		3,749		2,894
+
+CASH FLOWS FROM INVESTING ACTIVITIES:
+Purchases of marketable securities						(4,700)		(18,084)	(8,001)
+Sales and maturities of marketable securities					4,937		17,786		8,788
+Proceeds from sales of automotive assets and investments			461		215		100
+Finance receivables acquired							(16,809)	(17,290)	(17,476)
+Finance receivables collected							8,893		10,605		13,652
+Proceeds from sales of finance receivables					8,630		8,034		6,465
+Proceeds from sales of nonautomotive assets					2,375		903		-
+Expenditures for property and equipment						(1,761)		(1,417)		(1,553)
+Expenditures for special tools							(1,234)		(872)		(708)
+Other										146		(51)		(241)
+
+Net Cash Provided by (Used in) Investing Activities				938		(171)		1,026
+
+CASH FLOWS FROM FINANCING ACTIVITIES:
+Change in short-term debt (less than 90-day maturities)				2,518		(110)		(635)
+Proceeds under revolving lines of credit and long-term borrowings		6,995		44,597		68,231
+Payments on revolving lines of credit and long-term borrowings			(13,592)	(48,334)	(71,058)
+Proceeds from issuance of common stock, net of expenses				1,952		-		385
+Proceeds from issuance of preferred stock, net of expenses			-		836		-
+Redemption of subsidiary preferred stock					-		(75)		(210)
+Dividends paid									(281)		(225)		(169)
+Other										101		49		5
+Net Cash Used in Financing Activities						(2,307)		(3,262)		(3,451)
+
+Change in cash and cash equivalents						1,683		316		469
+Cash and cash equivalents at beginning of year					2,357		2,041		1,572
+
+Cash and Cash Equivalents at End of Year					$ 4,040		$ 2,357		$ 2,041
+
+
+Amounts for the prior periods have been reclassified to conform with current period classifications.
+See notes to consolidated financial statements.
+
+
+30

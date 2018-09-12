@@ -1,0 +1,114 @@
+THE COCA-COLA COMPANY AND SUBSIDIARIES
+
+
+NOTES TO CONSOLIDATED FINANCIAL STATEMENTS
+
+
+	A reconciliation of the statutory U.S. federal rate and
+effective rates is as follows:
+
+
+Year Ended December 31,		1993		1992		1991
+
+Statutory U.S. federal rate	35.0%		34.0%		34.0%
+State income taxes-net of
+	federal benefit		 1.0		 1.0		 1.0
+Earnings in jurisdictions taxed
+  at rates different from the
+  statutory U.S. federal rate 	(5.1) 		(3.8)		(3.1)
+Equity income			(1.7)		(1.0)		(.6)
+Other-~net			 2.1		 1.2		 .8
+
+				31.3%		31.4%		32.1%
+
+
+	The tax effects of temporary differences and carryfor-
+wards that give rise to significant portions of deferred tax
+assets and liabilities consist of the following (in millions):
+
+
+December 31,				1993		1992
+Deferred tax assets:
+	Benefit plans			$ 298		$ 297
+	Liabilities and reserves	  177		  119
+	Net operating loss carryforwards  141		  101
+	Other				  120		   84
+
+Gross deferred tax assets		  736		  601
+Valuation allowance			  (75)		  (63)
+
+Total					$ 661		$ 538
+
+Deferred tax liabilities:
+	Property, plant and equipment	$ 342		$ 312
+	Equity investments		  180		  197
+	Intangible assets		   52		   68
+	Other				   61		   43
+
+	Total				$ 635		$ 620
+
+Net deferred tax asset (liability)1	$  26		$ (82)
+
+
+1Deferred tax assets of $139 million have been included in the consoli-
+dated balance sheet caption marketable securities and other assets at
+December 31, 1993.
+
+
+	At December 31, 1993, the Company had $403 million
+of operating loss carryforwards available to reduce future
+taxable income of certain international subsidiaries.  Loss
+carryforwards of $293 million must be utilized within the
+next five years, and $110 million can be utilized over an
+indefinite period.  A valuation allowance has been provided
+for a portion of the deferred tax assets related to these loss
+carryforwards.
+
+
+	As the result of changes in U.S. tax law, the Company
+was required to record charges for additional taxes and
+tax-related expenses that reduced net income by approxi-
+mately $51 million in 1993.  The Company's effective tax
+rate reflects the favorable U.S. tax treatment from manu-
+facturing facilities in Puerto Rico that operate under a
+negotiated exemption grant that expires December 31,
+2009, as well as the tax benefit derived from significant
+operations outside the United States, which are taxed at
+rates lower than the U.S. statutory rate of 35 percent.
+Changes to U.S. tax law enacted in 1993 will limit the
+utilization of the favorable tax treatment from operations
+in Puerto Rico beginning in 1994, and will exert upward
+pressure on the Company's effective tax rate.
+	Appropriate U.S. and international taxes have been
+provided for earnings of subsidiary companies that are
+expected to be remitted to the parent company.  The cumu-
+lative amount of unremitted earnings of international
+subsidiaries that are expected to be indefinitely reinvested,
+exclusive of amounts that, if remitted, would result in little
+or no tax, is approximately $426 million at December 31,
+1993.  The taxes that would be paid upon remittance of
+these earnings are approximately $149 million.
+
+16.  Net Change in Operating Assets and Liabilities
+The changes in operating assets and liabilities, net of effects
+of acquisitions and divestitures of businesses and unreal-
+ized exchange gains/losses, are as follows (in millions):
+
+
+Year Ended December 31,		1993		1992		1991
+
+Increase in trade
+	accounts receivable	$(151)		$(147)		$ (32)
+Increase in inventories		  (41)		 (138)		   (3)
+Increase in prepaid expenses
+	and other assets          (76)		 (112)		 (326)
+Increase (decrease) in accounts
+	payable and accrued expenses (44)	  405		  267
+Increase in accrued taxes	  355		   57		  244
+Increase (decrease) in
+	other liabilities	   11            (108)	          101
+
+				$  54		$ (43)		$ 251
+
+
+67

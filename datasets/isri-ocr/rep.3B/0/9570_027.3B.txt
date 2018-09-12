@@ -1,0 +1,50 @@
+Consolidated Statement of Cash Flows
+Unisys Corporation
+
+
+Year Ended December 31 (Millions) 1993 1992 1991
+Cash flows from operating activities					
+Net income (loss) $ 565.4 $ 361.2 $(1,393.3)
+Add (deduct) items to reconcile net income (loss) to net		
+  cash provided by operating activities:
+Effects of extraordinary items and changes in accounting principles (203.8) (65.0)
+Depreciation 290.8 357.0 459.4
+Amortization:
+  Marketable software 144.6 131.8 241.0
+  Cost in excess of net assets acquired 41.3 41.4 251.2
+Decrease (increase) in deferred income taxes, net 202.6 (12.2) (39.0)
+Decrease in receivables, net 313.3 594.6 849.5
+Decrease in inventories 119.9 151.0 372.3
+(Decrease) increase in accounts payable and other accrued liabilities (314.4) (347.1) 53.0
+(Decrease) increase in estimated income taxes (164.9) 16.3 29.9
+(Decrease) increase in other liabilities (61.2) (20.3) 42.1
+Decrease (increase) in other assets 53.7 (172.6) (34.5)
+Other 32.4 140.4 87.9
+Net cash provided by operating activities 1,019.7 1,176.5 919.5
+Cash flows from investing activities
+Proceeds from investments 1,821.2 2,060.1 3,652.9
+Purchases of investments (1,829.4) (2,033.7) (3,624.3)
+Proceeds from marketable securities 146.5	
+Purchases of marketable securities (187.2) (73.7)
+Proceeds from sales of properties 26.5 90.3 344.1
+Investment in marketable software (118.7) (110.2) (167.7)
+Capital additions of properties and rental equipment (196.8) (251.7) (248.3)
+Other .5
+Net cash used for investing activities (337.9) (318.9) (42.8)
+Cash flows from financing activities
+Proceeds from issuance of debt 973.6
+Principal payments of debt (394.4) (404.7) (525.8)
+Net (reduction in) proceeds from short-term borrowings (47.2) (1,362.2) 88.7
+Dividends paid on preferred shares (183.7) (46.1) (26.5)
+Other 7.1 1.7
+Net cash used for financing activities (618.2) (837.7) (463.6)
+Effect of exchange rate changes on cash and cash equivalents (37.3) (24.4) (2.9)
+Increase (decrease) in cash and cash equivalents 26.3 (4.5) 410.2
+Cash and cash equivalents, beginning of year 809.1 813.6 403.4
+Cash and cash equivalents, end of year $ 835.4 $ 809.1 $ 813.6
+
+
+See notes to consolidated financial statements.
+
+
+27

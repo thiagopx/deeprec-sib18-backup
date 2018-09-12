@@ -1,0 +1,115 @@
+Systems
+
+For Complex Commercial and Technical Applications
+
+
+"Alpha AXP chips lead the industry in performance, 
+setting a standard in the open market and building
+momentum for Digital as a merchant vendor of micro-
+processors and PCI peripheral chips."
+
+-~ Ed Caldwell, Vice President, Digital Semiconductor
+   Digital Equipment Corporation
+
+"It is not a question of when you will need 64 bits.
+It is a question of when you will need that thirty-third
+bit. For a lot of applications, that time is now."
+
+-~ Willy Shih, Vice President
+   Product Strategy
+   Computer Systems Division
+   Digital Equipment Corporation
+
+
+"You don't just buy technology, you make an investment.
+And when you invest you have to look at the long term.
+You can't afford to buy equipment that will become 
+obsolete in a matter of years."
+
+-~ Richard C. Zbikowski, Project Manager
+   Boston Edison Energy Management Center
+
+
+Boston Edison: Alpha AXP
+systems provide the power
+for realtime energy man-
+agement and control
+Few realtime applications
+are as demanding as energy
+management and control.
+Electric utilities like Boston
+Edison have to balance 
+the supply and demand for
+power. This requires highly
+reliable realtime processing
+and specialized application
+software.
+
+In updating its energy
+management and control
+system, Boston Edison was
+looking for a distributed,
+workstation-based solution
+that wouldn't become obso-
+lete in a matter of years. They
+wanted an open architecture.
+
+They were one of the first,
+but by no means the last,
+major electric utility to move
+their energy management 
+and control to Alpha AXP
+workstations and computers.
+In fact, of the 23 large 
+(million-dollar-plus) energy
+management and control
+contracts signed by North
+American utilities in 1993,
+13 of the wins went to Alpha
+AXP systems, according to 
+a study by Newton-Evans
+Research of Ellicott City,
+
+
+Maryland. In the U.K.,
+Southern Electric, Northern
+Electric, Yorkshire Elec-
+tricity, SEEBOARD, London
+Electricity and the National
+Grid Company have all cho-
+sen Alpha AXP systems for 
+major projects.
+
+Boston Edison chose Alpha
+AXP systems running UNIX
+and EMS/SCADA software
+over IBM RS6000 AIX sys-
+tems. In addition to provid-
+ing Edison with a price/
+performance advantage,
+Digital offered a 64-bit
+UNIX solution that supports
+clusters and multiprocessing
+while meeting X/Open and 
+other industry standards.
+Equally important was the 
+availability of EMS/SCADA
+realtime software from CAE
+Electronics, Ltd., a Digital
+Technical OEM partner. CAE,
+based in Montreal, Canada,
+is a worldwide leader in the 
+development of power distri-
+bution systems and recently 
+won two contracts to install
+Alpha AXP systems in China.
+
+Boston Edison's Alpha AXP
+systems form part of a power
+distribution network that
+serves more than 650,000
+commercial, residential 
+and industrial customers.
+
+
+14

@@ -1,0 +1,56 @@
+Statement of Consolidated Cash Flow
+
+
+(DOLLARS IN MILLIONS) 1993 1992 1991
+INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS
+OPERATING ACTIVITIES:
+Income (loss) from continuing operations $ 494 $ (126) $ 238
+Add income taxes -~ continuing operations  235 (48) 116
+Income (loss) from continuing operations before income taxes  729 (174) 354
+Adjustments to reconcile to Cash Provided by Continuing Operations:
+  Income tax payments  (166) (162) (201)
+  Items that did not use cash:
+    Depreciation and amortization  572 765 714
+    Restructuring expenses -~ net  5 436 457
+    Incremental SFAS No. 106 expenses  48 45
+    Other  (19) 157 37
+  Working capital changes that provided (used) cash:
+    Accounts receivable  62 21 (101)
+    Inventories  (31) (30) (141)
+    Accounts payable and accrued liabilities  (202) (107) (40)
+    Other  34 (125) 7
+  Other items  (10) 22 26
+CASH PROVIDED BY CONTINUING OPERATIONS  1,022 848 1,112
+CASH PROVIDED BY (USED IN) DISCONTINUED OPERATIONS  (291) 64 68
+TOTAL CASH PROVIDED BY OPERATIONS  731 912 1,180
+INVESTING ACTIVITIES:
+Property, plant and equipment purchases  (437) (586) (554)
+Acquisition and investment payments  (510) (259) (225)
+Investment and property disposal proceeds  298 177 324
+Proceeds from sale of Fisher Controls  1,275
+Discontinued operations -~ other  (30) 10
+CASH PROVIDED BY (USED IN) INVESTING ACTIVITIES  (649) 577 (445)
+FINANCING ACTIVITIES:
+Net change in short-term financing  (31) (78) (245)
+Long-term debt proceeds  379 120 317
+Long-term debt reductions  (299) (565) (291)
+Treasury stock purchases  (380) (417) (296)
+Dividend payments  (275) (270) (258)
+Common stock issued to ESOP  250
+Other financing activities  68 11 23
+CASH USED IN FINANCING ACTIVITIES  (538) (949) (750)
+INCREASE (DECREASE) IN CASH AND CASH EQUIVALENTS  (456) 540 (15)
+CASH AND CASH EQUIVALENTS:
+Beginning of year  729 189 204
+End of year $ 273 $ 729	$ 189
+
+
+The above statement should be read in conjunction with pages 43 through 51 of this report.
+Previously reported amounts have been reclassified to present Fisher Controls as discontinued operations.
+The effect of exchange rate changes on cash and cash equivalents was not material.
+Cash payments for interest (net of amounts capitalized) were $133 million, $176 million and $169 million for the years 1993, 1992 and 1991, respectively.
+During 1991, Monsanto established an Employee Stock Ownership Plan (ESOP). Monsanto was guarantor of $80 million of ESOP notes and $100 million of ESOP
+debentures as of Dec. 31, 1993.
+
+
+MONSANTO 1993  38  ANNUAL REPORT

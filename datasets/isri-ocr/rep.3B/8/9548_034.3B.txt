@@ -1,0 +1,68 @@
+(7) POSTRETIREMENT PLANS
+
+The Company sponsors unfunded postretirement benefit plans (primarily health care) for U.S. retirees and their dependents.
+Effective October 1, 1993, the Company adopted Statement of Financial Accounting Standards No. 106, "Employers' Accounting
+for Postretirement Benefits Other Than Pensions" (OPEB), which requires that these costs be accrued over the service lives of
+employees. The Company recognized the transition obligation arising from service prior to adoption in the first quarter as a 
+cumulative effect of change in accounting principle of $115.9 million (net of $74.1 million in related income tax benefits). In
+addition, prior to adoption the Company had recorded OPEB liabilities of approximately $100 million in accordance with
+Accounting Principles Board Opinion No. 16. The statement will not have a material impact on the Company's ongoing results of
+operations.
+
+Total postretirement plan expense for the year ended September 30, 1994 was $27.3 million, consisting of $5.6 million service 
+cost and $21.7 million interest. Prior to the adoption of SFAS No. 106, postretirement plan expense was approximately $16
+million and $11 million for 1993 and 1992, respectively.
+
+The actuarial present value of accumulated postretirement benefit obligations as of September 30, 1994 and October 1, 1993
+follows (dollars in millions):
+
+
+1994 1993
+
+Retirees ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $ 186.5  177.4
+Fully eligible active plan participants ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  17.6   26.9
+Other active plan participants ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  74.0   91.7
+  Accumulated postretirement benefit obligation ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  278.1    296.0
+Unrecognized net gain ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  27.7   -~
+  Postretirement benefit liability ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  $ 305.8    296.0
+
+
+The assumed discount rate used in measuring the obligation as of September 30, 1994 was 7.75 percent; the initial assumed
+health care cost trend rate was 11.0 percent, declining to 5.0 percent in the year 2001. The assumed discount rate used in
+measuring the obligation as of October 1, 1993 was 7.25 percent; the initial assumed health care cost trend rate was 12.0 
+percent, declining to 5.0 percent in the year 2008. A one-percentage-point increase in the assumed health care cost trend rate
+for each year would increase the obligation as of September 30, 1994 by approximately 6 percent and increase the 1994 
+postretirement plan expense by approximately 8 percent.
+
+(8) COMMON STOCK
+
+The Company has various stock option plans which permit certain officers and employees to purchase common stock at
+specified prices. At September 30, 1994, 2,716,074 options were available for grant under these plans. Changes in the number
+of shares subject to option during 1994 follow:
+
+
+Shares 
+Average  Subject
+Price    to Option
+
+Beginning of year ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  $ 34.51   1,595,449
+  Options granted ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  56.63   805,884
+  Options exercised (419,730 shares in 1993 and 325,316 shares in 1992) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  30.79   (337,780)
+  Options canceled ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  53.16  (33,056)
+
+End of year ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  43.61   2,030,497
+
+Exercisable at year end (1,261,532 shares in 1993) ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~  1,019,440
+
+
+The 1993 Incentive Shares Plan authorizes the distribution of a maximum of 3 million shares of common stock to key
+management personnel. At September 30, 1994, 212,000 incentive shares had been issued and 952,485 rights to receive
+common shares had been awarded, contingent upon accomplishing certain objectives by 1997.
+
+At September 30, 1994, 9,291,714 shares of common stock were reserved, including 7,602,726 shares for issuance under the 
+Company's stock plans and 1,688,988 shares for conversion of the outstanding 8% convertible subordinated debentures at a 
+price of $26.97 per share. The estimated fair value of the debentures was $101 million and $103 million at September 30, 1994
+and 1993, respectively. During 1994, 1,976,906 treasury shares were acquired and 799,520 treasury shares were issued.
+
+
+34

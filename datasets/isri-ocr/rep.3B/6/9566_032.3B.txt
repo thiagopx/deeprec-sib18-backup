@@ -1,0 +1,101 @@
+FINANCIAL STATEMENTS   ROCKWELL INTERNATIONAL CORPORATION
+
+
+1. Financial Statement Presentation
+
+Significant accounting policies are set forth in italics as an
+integral part of the notes to financial statements to which 
+the policies relate. Certain prior year amounts have been
+reclassified to conform with current year presentation.
+  In 1992, the company adopted Financial Accounting 
+Standards Board Statement No. 106, "Employers' Accounting 
+for Postretirement Benefits Other Than Pensions," resulting
+in a one-time charge to earnings of $1,519 million, or $6.78
+per share, after a deferred tax benefit of $931 million. The 
+company also adopted Statement No. 109, "Accounting for
+Income Taxes," which did not have a material effect on 1992
+income before change in accounting.
+
+2. Acquisition of Reliance Electric Company
+
+On November 21, 1994, the company announced it had 
+entered into a definitive agreement to acquire all shares of
+common stock of Reliance Electric Company (Reliance), a 
+major manufacturer of industrial products and telecommuni-
+cations equipment with annual sales of $1.7 billion, at a 
+price of $31 per share of Class A and Class B common stock
+and an equivalent price ($83.95) for Class C common stock.
+The offer has a total transaction value of approximately $1.6
+billion and is expected to be completed in early 1995. The
+company will finance this acquisition utilizing its credit
+agreements (see Note 8). The company has announced its 
+intention to divest Reliance's telecommunications business
+which has annual sales of approximately $440 million.
+
+3. Receivables
+
+Receivables are summarized as follows (in millions):
+
+
+SEPTEMBER 30  1994 1993
+Accounts and notes receivable:
+ Commercial, less allowance for
+  doubtful accounts (1994, $68.0;
+  1993, $47.3) $1,364.2 $1,258.2
+ United States Government 128.1 149.0
+Unbilled costs and accrued profits,
+ less related progress payments
+ (1994, $387.4; 1993, $550.5) 774.9 801.9
+Receivables $2,267.2 $2,209.1
+
+
+  Unbilled costs and accrued profits consist principally 
+of revenues recognized on United States Government con-
+tracts under the percentage-of-completion (cost-to-cost)
+
+
+method of accounting (see Note 14). Unbilled costs and 
+accrued profits, less related progress payments, are billed in
+accordance with applicable contract terms. Unbilled costs 
+and accrued profits include $201 million relating to claims
+subject to negotiation or settlement with customers. These 
+claims include amounts which are not expected to be
+received within one year.
+
+4. Inventories
+
+Inventories are summarized as follows (in millions):
+
+
+SEPTEMBER 30  1994 1993
+
+Finished goods $ 355.5 $ 330.3
+Long-term contracts in process 300.0 338.2
+Work in process 619.5 508.7
+Raw materials, parts and supplies 472.6 492.4
+Total 1,747.6 1,669.6
+Less allowance to adjust the carrying 
+ value of certain inventories (1994, $556.6;
+ 1993, $509.0) to a LIFO basis 67.8 67.2
+Remainder 1,679.8 1,602.4
+Less related progress payments 147.0 171.6
+Inventories $1,532.8 $1,430.8
+
+
+  Inventories are stated at the lower of cost (using LIFO, FIFO or
+average methods) or market (determined on the basis of estimated 
+realizable values), less related progress payments received. Pursuant
+to contract provisions the United States Government has
+title to, or a security interest in, certain inventories as a
+result of progress payments.
+  Long-term contracts in process consist of inventoried 
+costs principally relating to fixed-price-type contracts with
+the United States Government. Such inventoried costs include
+direct costs of manufacturing, engineering and tooling, and allocable
+overhead costs including general and administrative expenses allowable
+in accordance with United States Government contract cost principles.
+In accordance with industry practice, such inventoried costs include
+amounts which are not expected to be realized within one year.
+
+
+32

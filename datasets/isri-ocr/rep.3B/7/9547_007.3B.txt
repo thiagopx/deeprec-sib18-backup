@@ -1,0 +1,125 @@
+Client/server computing
+brings these two very dif-
+ferent styles of computing
+together.
+
+Digital's contribution was
+to develop the network
+platforms, software frame-
+works, integration and
+support services, strategic
+alliances, and business
+practices needed to fully
+implement the client/
+server concept. Working 
+with our strategic partners,
+we are creating an open,
+enterprise-wide computing 
+environment to meet the
+needs of customers seeking
+to develop a competitive 
+advantage or maximize the
+use of existing personnel
+and computing resources.
+
+As a company, we are 
+focusing on our core 
+competencies -~ the four
+prerequisites for leader-
+ship in open, multivendor
+client/server computing:
+
+~
+Software -~ The software
+frameworks customers need 
+to develop client/server
+applications and integrate
+PC, Macintosh, UNIX,
+OpenVMS, Windows NT,
+OSF/1, Sun, Hewlett-
+Packard, IBM and other
+systems.
+
+
+~
+Systems -~ Powerful 64-
+and 32-bit client and server
+systems based on Alpha
+AXP, VAX and Intel micro-
+processors with the capacity 
+to handle the huge amounts 
+of information inherent 
+in enterprise-wide client/
+server applications.
+
+~
+Networks -~ The hardware
+and software needed to open
+up the Information Super-
+highway and link clients and
+servers -~ switches, routers,
+hubs, network adapters,
+network operating systems,
+and mobile/wireless and
+other telecommunications
+solutions.
+
+~
+Services -~ The systems 
+and network integration
+and multivendor customer
+services needed to plan,
+design, integrate, imple-
+ment, manage and main-
+tain open multivendor
+client/server networks that
+include both legacy systems
+and new technology.
+
+These four competencies
+are interrelated. And -~
+combined with the organi-
+zational skills needed to 
+develop and implement 
+client/server environments
+-~ they provide the foun-
+dation upon which Digital,
+its customers and its 
+strategic partners can 
+base their future.
+
+
+"Digital's Components Division delivers world-class prod-
+ucts to build open, networked client/server environments
+that simplify business processes and increase productiv-
+ity. We provide networking hardware, StorageWorks sub-
+systems, printers, terminals and other components to 
+Digital and other computer manufacturers, as well as to
+distributors and resellers."
+
+-~ Charles Christ, Vice President and General Manager
+   Components Division
+   Digital Equipment Corporation
+
+
+"If you profess support for open client/server comput-
+ing, you have to support multiple operating systems. 
+Digital is fully committed to UNIX, OpenVMS and
+Windows NT because they all have a place in client/
+server environments."
+
+-~ William D. Strecker
+   Chief Technical Officer and Vice President
+   Advanced Technology Group
+   Digital Equipment Corporation
+
+With open client/server
+computing, we are helping 
+customers reengineer their
+operations, open new mar-
+kets, develop new products
+and improve both personal
+and corporate productivity.
+
+
+7

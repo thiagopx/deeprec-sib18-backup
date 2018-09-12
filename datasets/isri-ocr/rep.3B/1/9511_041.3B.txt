@@ -1,0 +1,107 @@
+Notes to Financial Statements
+	DOLLARS IN MILLIONS, EXCEPT PER SHARE
+
+1.  Summary of Significant Accounting Policies
+DuPont observes the generally accepted accounting principles
+described below.  These, together with the other notes that follow,
+are an integral part of the consolidated financial statements.
+
+Accounting Changes
+In 1992, DuPont adopted Statement of Financial Accounting
+Standards (SFAS) No. 106, "Employers' Accounting for Postretirement
+Benefits Other Than Pensions" and SFAS No. 109, "Accounting for
+Income Taxes."  The company recorded charges to net income of 
+$3,788 ($5.63 per share) and $1,045 ($1.55 per share), respectively,
+as of January 1, 1992 for the effects of transition to these two new
+standards.  See also Notes 8 and 26.
+
+Basis of Consolidation
+The accounts of wholly owned and majority-owned subsidiaries are
+included in the consolidated financial statements.  Investments in
+affiliates owned 20 percent or more and corporate joint ventures are
+accounted for under the equity method.  Investments in noncorporate
+joint ventures of petroleum operations are consolidated on a pro rata
+basis.  Other securities and investments are generally carried at cost.
+
+Inventories
+Substantially all inventories are valued at cost as determined by the
+last-in, first-out (LIFO) method; in the aggregate, such valuations are
+not in excess of market.  Elements of cost in inventories include
+raw materials, direct labor and manufacturing overhead.  Stores
+and supplies are valued at cost or market, whichever is lower; cost is
+generally determined by the average cost method.
+
+Property, Plant and Equipment
+Property, plant and equipment (PP&E) is carried at cost and, except for
+petroleum PP&E, is generally classified in depreciable groups and
+depreciated by accelerated methods that produce results similar to the
+sum-of-the-years' digits method.  Depreciation rates range from 4 per-
+cent to 12 percent per annum on direct manufacturing facilities and
+from 2 percent to 10 percent per annum on other facilities; in some
+instances appropriately higher or lower rates are used.  Generally,
+for PP&E acquired prior to 1991, the gross carrying value of assets
+surrendered, retired, sold or otherwise disposed of is charged to
+accumulated depreciation and any salvage or other recovery therefrom
+is credited to accumulated depreciation.  For disposals of PP&E
+acquired after 1990, the gross carrying value and related accumulated
+depreciation are removed from the accounts and included in determin-
+ing gain or loss on such disposals.
+
+Petroleum PP&E, other than that described below, is depreciated
+on the straight-line method at various rates calculated to extinguish
+carrying values over estimated useful lives.  When petroleum PP&E is
+
+
+surrendered, retired, sold or otherwise disposed of, the assets
+involved determine if gain or loss is recognized, or the gross
+carrying value is charged to accumulated depreciation, depletion
+and amortization and any salvage or other recovery therefrom is
+credited to accumulated depreciation, depletion and amortization.
+
+Maintenance and repairs are charged to operations; replacements
+and betterments are capitalized.
+
+Oil and Gas Properties
+The company's exploration and production activities are accounted
+for under the successful-efforts method.  Costs of acquiring unproved
+properties are capitalized, and impairment of those properties, which
+are individually insignificant, is provided for by amortizing the cost
+thereof based on past experience and the estimated holding period.
+Geological, geophysical and delay rental costs are expensed as
+incurred.  Costs of exploratory dry holes are expensed as the wells are
+determined to be dry.  Costs of productive properties, production and
+support equipment, and development costs are capitalized and 
+amortized on a unit-of-production basis.
+
+Intangible Assets
+Identifiable intangible assets such as purchased patents and
+trademarks are amortized on a straight-line basis over their estimated
+useful lives.  Goodwill is amortized over periods up to 40 years on the
+straight-line method.
+
+Environmental Liabilities and Expenditures
+Accruals for environmental matters are recorded in operating
+expenses when it is probable that a liability has been incurred
+and the amount of the liability can be reasonably estimated.  Accrued
+liabilities are exclusive of claims against third parties and are not
+discounted.
+
+In general, costs related to environmental remediation are 
+charged to expense.  Environmental costs are capitalized if the
+costs increase the value of the property and/or mitigate or prevent
+contamination from future operations.
+
+Income Taxes
+The provision for income taxes for 1993 and 1992 has been
+determined under SFAS No. 109, which requires use of the asset and
+liability approach to accounting for income taxes.  Under that
+approach, deferred taxes represent the future tax consequences 
+expected to occur when the reported amounts of assets and liabilities
+are recovered or paid.  The provision for income taxes represents
+income taxes paid or payable for the current year plus the change in
+deferred taxes during the year.  Deferred taxes result from differences
+between the financial and tax bases of the company's assets and
+liabilities and are adjusted for changes in tax rates and tax laws
+
+
+41		DUPONT

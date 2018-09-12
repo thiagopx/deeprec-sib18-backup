@@ -1,0 +1,47 @@
+Consolidated Statement of Retained Earnings      COLGATE-PALMOLIVE COMPANY
+
+
+Dollars in Millions   1993       1992       1991
+
+Balance, January 1  $2,204.9   $1,928.6   $1,960.8
+Add:
+Net income   189.9      477.0      124.9
+           2,394.8    2,405.6    2,085.7
+
+Deduct:
+Dividends declared:
+Series B Convertible Preference Stock, net of income taxes    21.1  20.2  20.3
+Preferred stock  .5 .5  .5
+Common stock   209.8  180.0  136.3
+               231.4  200.7  157.1
+Balance, December 31  $2,163.4  $2,204.9  $1,928.6
+
+
+Consolidated Statement of Changes in Capital Accounts
+
+Common Stock    Additional   Treasury Stock
+                                                                                          Paid-In
+Dollars in Millions                                  Shares       Amount                  Capital             Shares             Amount
+
+Balance, January 1, 1991                        133,207,216       $171.1                 $  123.6         37,940,242           $  706.5
+Shares issued through public offering            11,500,000            -                    230.9       (11,500,000)            (214.6)
+Shares issued in connection with acquisitions     1,571,730            -                     33.3        (1,571,730)             (29.3)
+Shares issued for stock options                   1,238,377           .4                     14.6          (827,203)             (15.4)
+Treasury stock acquired                           (188,245)            -                        -            188,245                 .2
+Other                                                14,258            -                      9.0           (14,258)                 .3
+Balance, December 31, 1991                      147,343,336        171.5                    411.4         24,215,296              447.7
+Shares issued in connection with acquisition    11,648,693         11.7                    532.4                  -                  -
+Shares issued for stock options                   2,441,044            -                      9.5        (2,441,044)             (46.6)
+Treasury stock acquired                           (976,983)            -                        -            976,983               54.0
+Other                                             (215,686)            -                     32.0            221,656               12.2
+Balance, December 31, 1992                       160,240,404        183.2                    985.3         22,972,891              467.3
+Shares issued for stock options                   1,408,105            -                      9.6        (1,408,105)             (34.7)
+Treasury stock acquired                        (12,610,423)            -                        -         12,610,423              698.1
+Other                                               218,517            -                      6.0          (218,517)              (6.7)
+Balance, December 31, 1993                      149,256,603       $183.2                 $1,000.9         33,956,692           $1,124.0
+
+
+See Notes to Consolidated Financial Statements.
+
+
+28

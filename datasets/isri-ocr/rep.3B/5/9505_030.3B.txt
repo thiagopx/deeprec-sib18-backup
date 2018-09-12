@@ -1,0 +1,67 @@
+30
+
+
+C. Non-U.S. Sales
+
+Sales outside the United States were 49% of consolidated sales for 1993 and
+55% for 1992.  This chart shows data on Caterpillar sales outside the United
+States based on dealer location.
+
+
+Years ended December 31
+(Millions of dollars)				1993		1992
+
+Sales of U.S. manufactured product:		
+Asia/Pacific ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $  1,172		     $	938
+Europe ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 645				608
+Latin America ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 570			628
+Africa/Middle East~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 577			606
+Canada ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 625				417
+				 3,589				3,197
+
+Sales of non-U.S. manufactured product:
+Asia/Pacific ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 440			371
+Europe ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 933				1,177
+Latin America ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 279			280
+Africa/Middle East~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 225			286
+Canada ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 59				108
+				1,936				2,222
+
+Total sales outside the United States:
+Asia/Pacific ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1,612			1,309
+Europe ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 1,578				1,785
+Latin America ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 849			908
+Africa/Middle East~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 802			892
+Canada ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 684				525
+				$  5,525			$ 5,419
+
+
+12. Selected Quarterly Financial Results (unaudited)
+
+Financial information for interim periods was as follows:
+
+
+(Millions of dollars except per share data)					1993
+	
+Quarters			1st		2nd		3rd		4th
+
+Sales and revenues ~~~~~~~~~~~~~~~~~~~~~~~$2,697		$2,905		$2,845		$3,168
+Less:  Revenues ~~~~~~~~~~~~~~~~~~~~~~~~~ 89			95		95		101
+Sales ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ 2,608			2,810		2,750		3,067
+Cost of goods sold ~~~~~~~~~~~~~~~~~~~~~~~ 2,172		2,298		2,224		2,381
+Gross margin ~~~~~~~~~~~~~~~~~~~~~~~~~~~ 436			512		526		686
+Profit before extraordinary loss ~~~~~~~~~ $  34	$  67		$  432		$  148
+Profit ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $  34			$  67		$  432		$  119
+
+Profit per share of common stock:
+Profit before extraordinary loss ~~~~~~~ $  .34	$  .66		$  4.26		$  1.46
+Profit ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ $  .34			$  .66		$  4.26		$  1.17
+
+
+	Third quarter 1993 results included after-tax nonrecurring gains of
+$300 million related to the settlement with the IRS for taxes and related interest
+for the period 1979 through 1987 and of $36 million related to revaluation of
+the company's net U.S. deferred tax asset position as a result of the increase in
+the U.S. corporate tax rate (note 6).
+	Fourth quarter 1993 results included an extraordinary loss on early
+retirement of debt of $29 million, net of tax (note 8B).

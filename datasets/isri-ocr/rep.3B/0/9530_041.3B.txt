@@ -1,0 +1,109 @@
+Notes to Consolidated Financial Statements
+
+1.  Accounting Policies
+
+  Shell Oil Company (the Company) is wholly owned by
+Shell Petroleum Inc., a Delaware corporation, whose shares
+are directly or indirectly owned 60 percent by Royal Dutch
+Petroleum Company, The Hague, The Netherlands, and 40
+percent by The "Shell" Transport and Trading Company,
+public limited company, London, England.
+  This summary of the major accounting policies of Shell
+Oil Company and its consolidated subsidiaries (Shell Oil) is
+presented to assist the reader in evaluating Shell Oil's finan-
+cial statements and other data contained in this report.
+
+Cash Equivalents -~ Cash equivalents consist of highly liq-
+uid investments that are readily convertible into cash and
+have a maturity of three months or less.
+
+Inventories -~ Inventories of oils and chemicals are valued at
+cost predominantly on a last-in, first-out (LIFO) basis which
+is lower than market.  Materials and supplies are carried at
+average cost or less.
+
+Exploration and Development -~ Exploration and develop-
+ment expenditures are accounted for according to the "suc-
+cessful efforts" method of accounting.
+  Property Acquisition Costs -~ Direct costs of acquiring
+developed or undeveloped leasehold acreage including lease
+bonus, brokerage and other fees are capitalized.  The cost of
+undeveloped properties which become productive is trans-
+ferred to a producing property account.
+  Exploratory Costs -~ Exploratory expenses, including
+geological and geophysical expenses and annual delay rentals
+on oil and gas leases, are charged to income as incurred.
+Exploratory drilling costs are initially capitalized, but should
+the efforts be determined to be unsuccessful, they are then
+charged against income.
+  Development Costs -~ Costs incurred to drill and equip
+development wells, including dry holes, platform costs, well equip-
+ment costs and attendant production facilities costs are capitalized.
+
+Depreciation, Depletion and Amortization -~ Deprecia-
+tion, depletion and amortization of the capitalized cost of
+producing properties, both tangible and intangible, are pro-
+vided for on a unit of production basis.  Developed reserves
+are used in computing unit rates for drilling and development
+costs, and total proved reserves are used for depletion of lease-
+hold costs.  The predominant basis for unit determination is
+by field.  Amortization of unproven leasehold costs from date
+of acquisition is based primarily upon experience in establish-
+ing rates to fully amortize over the holding period those leas-
+es that may be unproductive.  Estimated dismantlement,
+
+
+restoration and abandonment costs and estimated residual
+salvage values are taken into account in determining amorti-
+zation and depreciation provisions.
+  Other plant and equipment are depreciated on a straight-
+line basis over their estimated useful lives.  On a cycle basis,
+asset lives are reviewed for propriety.  Changes in depreciation
+rates, if any, are applied prospectively.
+
+Environmental Costs -~ Environmental costs relating to cur-
+rent operations are expensed or capitalized, as appropriate,
+depending on whether such costs provide future economic
+benefits.  Liabilities are recognized when the costs are consid-
+ered probable and can be reasonably estimated.  Measurement
+of liabilities is based on currently enacted laws and regula-
+tions, existing technology and undiscounted site-specific
+costs.  Such recognition occurs no later than the Company's
+commitment to a formal plan of action.  Environmental liabil-
+ities in connection with properties which are either sold or
+closed are realized upon such sale or closure, to the extent
+they are probable and estimable at that date.  In assessing envi-
+ronmental liabilities, no set-off is made for potential insur-
+ance recoveries.  Recognition of any joint and several liability
+is made based upon the best estimate as to Shell Oil's final
+pro rata share of the liability.  All liabilities are monitored and
+adjusted regularly as new facts or changes in law or technolo-
+gy make appropriate.
+
+2.  Accounting Changes
+
+  Shell Oil adopted Statement of Financial Accounting
+Standards (SFAS) No. 106, "Employers' Accounting for
+Postretirement Benefits Other than Pensions," in 1992.  In
+contrast to previous years when Shell Oil's portion of premi-
+um payments was recorded as retiree health care expense and
+charged against income, SFAS No. 106 requires the accrual
+of the expected cost of providing retiree health care benefits
+during the period the employees rendered the necessary ser-
+vice to be entitled to such benefits.  Shell Oil elected to
+immediately recognize the cumulative effect of adopting
+SFAS No. 106 as of January 1, 1992.  As shown below, this
+resulted in the recognition of an accumulated postretirement
+health care benefit obligation of $950 million ($627 million
+after deferred income taxes).
+  Shell Oil also adopted SFAS No. 109, "Accounting for
+Income Taxes," in 1992.  This statement superseded SFAS
+No. 96, which was adopted by Shell Oil in 1988.  SFAS No.
+109 prescribes an asset and liability approach in accounting
+for income taxes, requiring that deferred tax assets and liabil-
+ities be determined using the tax rate expected to apply to
+taxable income in the periods in which the deferred tax asset
+or liability is expected to be realized or settled.  Under this
+
+
+41

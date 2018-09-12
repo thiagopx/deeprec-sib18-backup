@@ -1,0 +1,54 @@
+Date: 04/03/95      TABS III Detail Work-In-Process Report
+                      David L. Tanner, Esq., P.C.
+
+Payment Cut-Off Date: 04/03/95
+Primary Timekeeper: 3 David L. Tanner
+
+Client: 1853.2B CONDITT/ROBERT J. & ROSE LINDA      (Cont.)
+
+H T B R  Write
+Date Timekpr Cat Src P X C C Tcode Ref # Rate Hours Amount Up/Down Description
+
+
+motion to dismiss set for 1/18
+02/17/95 5 AMC 9 183 00037 65.00 0.30 19.50 Review and/or sign letter to payroll agent
+for Mr. Conditt client regarding: payroll
+deduction order - effective immediately !!!
+02/17/95 3 DLT 9 1 00038 125.00 0.10 12.50  Preparation of first draft of payroll deductio
+order
+02/17/95 3 DLT 9 2 00039 125.00 0.10 12.50  Preparation of final payroll deduction order -
+plus 7 copies for court filing
+
+Total Billable Fees  14.70 2243.00
+Total Fee Write-Up 1200.00
+Total Fee Write-Down -356.50
+
+Billable Total: 002 Barbara Dowell 0.20 13.00
+Billable Total: 003 David L. Tanner 7.40 1937.50
+  Total Fee Write-Up 1200.00
+  Total Fee Write-Down -187.50
+
+Billable Total: 004 Cindy Kangas 2.20 13.00
+  Total Fee Write-Down -130.00
+
+Billable Total: 005 Angela Castro 4.90 279.50
+  Total Fee Write-Down -39.00
+
+09/10/93 3 DLT 85 00002 8.41 Postage - order shortening time
+09/17/93 3 DLT 80 00001 7.00 U. S. Bankruptcy Court - certified copy
+10/19/93 3 DLT 90 00003 3.00 Fax charges - Gary Bailey
+10/28/93 3 DLT 90 00004 2.00 Fax charges
+10/28/93 3 DLT 90 00005 2.00 Fax charges - IRS
+11/10/93 3 DLT 85 00006 0.00 Postage - motion to sell property 8.93
+11/22/93 3 DLT 80 00007 6.50 U. S. Bankruptcy Court - certified copy
+05/05/94 3 DLT 86 00010 10.50 Photocopying charges - application for interim
+compensation
+05/05/94 3 DLT 85 00011 4.50 Postage - application for interim compensation
+
+Total Expenses 43.91
+
+Payments
+12/07/93 99 00008 -1200.00 PAYMENT - OLD REPUBLIC TITLE ON MOTION TO SELL
+01/04/94 99 00009 -1073.52 PAYMENT - K. MCDONALD, TRUSTEE
+
+Total Payments -2273.52

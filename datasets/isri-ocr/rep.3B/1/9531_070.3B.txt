@@ -1,0 +1,46 @@
+17. QUARTERLY FINANCIAL DATA (UNAUDITED)
+
+                                                   Income
+                       Income                     (Loss) from                 Cumulative
+             Net Sales (Loss) Before  Income      Discontinued                Effect of Changes
+               and       Interest     (Loss) from  Operations,  Extraordinary  in Accounting    Net
+Quarter      Operating Expense and    Continuing   Net of       Loss, Net of   Principles, Net  Income
+(Millions)   Revenues  Income Taxes   Operations  Income Tax   Income Tax(a)   of Income Tax   (Loss)
+1993 1st     $ 3,247     $  274          $  74        $  -~        $  -~           $  -~       $     74
+     2nd       3,482        303            111           -~         (23)              -~             88
+     3rd       3,150        275            116           -~          (2)              -~            114
+     4th       3,376        317            150           -~          -~               -~            150
+             $ 13,255     $1,169          $ 451        $  -~        $(25)           $  -~       $    426
+1992 1st     $ 3,210     $  207          $  35        $ (2)        $ -~            $ (699)      $   (666)
+     2nd       3,435        296             50          73           -~               -~            123
+     3rd       3,180        177             46          -~           -~               -~             46
+     4th       3,314       (760)(b)       (814)(b)      -~          (12)              -~           (826)(b)
+             $ 13,139     $  (80)         $ (683)       $ 71         $ (12)           $ (699)       $ (1,323)
+
+                     Earnings (Loss) per Average Share of Common Stock
+
+                                                             Cumulative
+                                                           Effect of Changes   Net
+             Continuing       Discontinued   Extraordinary  in Accounting    Income
+Quarter      Operations(c)    Operations      Loss(c)       Principles(c)    (Loss)(c)
+1993 1st      $  .46             $ -~          $  -~          $  -~           $  .46
+     2nd         .63               -~           (.13)            -~              .50
+     3rd         .64               -~           (.01)            -~              .63
+     4th         .83               -~             -~             -~              .83
+              $ 2.59             $ -~          $(.15)         $  -~           $ 2.44
+1992 1st      $  .22             $ (.02)        $  -~          $ (4.92)         $ (4.72)
+     2nd         .32               .52            -~             -~              .84
+     3rd         .28               -~             -~             -~              .28
+     4th       (5.55)(b)           -~           (.08)            -~           (5.63)(b)
+              $ (4.85)            $ .50         $ (.08)         $ (4.86)         $ (9.29)
+
+
+(a) Represents the redemption premium related to the retirement of long-term debt.
+(b) Includes a pre-tax restructuring charge of $920 million ($843 million after tax, or $5.85 per average common share).
+(c) The sum of the quarters does not equal the total of the respective year's earnings per share due to the issuance of additional shares throughout the year.
+
+
+The preceding notes are an integral part of the foregoing financial statements.
+
+
+70

@@ -1,8 +1,8 @@
 # A deep learning-based compatibility score for reconstruction of strip-shredded text documents
 
 #### [Thiago M. Paixão¹²](http://sites.google.com/site/professorpx), Rodrigo F. Berriel², Maria C. S. Boeres², Claudine Badue², Alberto F. De Souza² and Thiago Oliveira-Santos²
-###### ¹Instituto Federal do Espírito Santo, ²Universidade Federal do Espírito Santo
-###### paixao at gmail dot com
+##### ¹Instituto Federal do Espírito Santo, ²Universidade Federal do Espírito Santo
+##### paixao at gmail dot com
 ___
 
 ### Main dependencies:

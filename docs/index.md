@@ -1,16 +1,19 @@
 # A deep learning-based compatibility score for reconstruction of strip-shredded text documents
-### [Thiago M. Paixão¹²](http://sites.google.com/site/professorpx), Rodrigo F. Berriel², Maria C. S. Boeres², Claudine Badue², Alberto F. De Souza² and Thiago Oliveira-Santos²
-#### ¹Instituto Federal do Espírito Santo, ²Universidade Federal do Espírito Santo
-#### paixao at gmail dot com
-
+-----
+[Thiago M. Paixão¹²](http://sites.google.com/site/professorpx), Rodrigo F. Berriel², Maria C. S. Boeres², Claudine Badue², Alberto F. De Souza² and Thiago Oliveira-Santos²
+### ¹Instituto Federal do Espírito Santo, ²Universidade Federal do Espírito Santo
+### paixao at gmail dot com
 ------
-We also used the trained model to reconstruct the full collection of mixed documents (aprox. 1850 strips).
-The resulting reconstruction is available [here](https://daringfireball.net/projects/markdown/).
----
 
-#### Main dependencies:
+## Main dependencies:
 * [docker](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
 * [nvidia-docker](https://github.com/NVIDIA/nvidia-docker).
+
+
+We also used the trained model to reconstruct the full collection of mixed documents (aprox. 1850 strips).
+The resulting reconstruction is available  [here](https://daringfireball.net/projects/markdown/).
+------
+
 ```
 No language indicated, so no syntax highlighting. 
 But let's throw in a <b>tag</b>.

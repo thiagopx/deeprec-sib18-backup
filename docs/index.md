@@ -5,7 +5,7 @@
 
 ___
 
-### Paper [[pdf](http://ieeexplore.ieee.org)]
+### Published paper [[pdf](http://ieeexplore.ieee.org)]
 ```
 Under construction
 ```

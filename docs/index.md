@@ -17,19 +17,32 @@ ___
 
 ___
 
-### Reproducing the experiment:
+### Reproducing the experiments:
 1. Build the docker container
 ```
 bash build.sh
 ```
-2. Train the SqueezeNet model
+2. Sample the training images
+```
+bash dataset.sh
+```
+3. Train the SqueezeNet model
 ```
 bash train.sh
 ```
-3. or the MobileNet model
+4. or the MobileNet model
 ```
 bash train-mn.sh
 ```
+5. Test
+```
+bash test.sh
+```
+6. Generate graphs (/graphs directory)
+```
+bash graphs.sh
+```
+
 ___
 
 Besides the experiments reported on the paper, we also used the trained model to reconstruct the full collection of shredded documents after mixing their strip (aprox. 1850 strips). The resulting reconstruction is available  [here](https://daringfireball.net/projects/markdown/).

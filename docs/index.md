@@ -1,5 +1,3 @@
-<h1 class="project-name"> SIB </h1>
-
 # A deep learning-based compatibility score for reconstruction of strip-shredded text documents
 
 #### [Thiago M. Paixão¹²](http://sites.google.com/site/professorpx), Rodrigo F. Berriel², Maria C. S. Boeres², Claudine Badue², Alberto F. De Souza² and Thiago Oliveira-Santos²
@@ -9,7 +7,7 @@ ___
 
 ### Main dependencies:
 * [docker](https://docs.docker.com/install/linux/docker-ce/ubuntu/)
-* [nvidia-docker](https://github.com/NVIDIA/nvidia-docker).
+* [nvidia-docker](https://github.com/NVIDIA/nvidia-docker)
 
 ___
 
@@ -18,11 +16,11 @@ ___
 ```
 bash build.sh
 ```
-2. Train the SqueezeNet
+2. Train the SqueezeNet model
 ```
 bash train.sh
 ```
-or MobileNet model:
+3. or the MobileNet model
 ```
 bash train-mn.sh
 ```

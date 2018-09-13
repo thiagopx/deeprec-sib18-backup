@@ -17,7 +17,7 @@ ___
 
 ___
 
-### Reproducing the experiments:
+### Reproducing the experiments with docker:
 1. Build the docker container
 ```
 bash build.sh

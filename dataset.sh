@@ -1,1 +1,1 @@
-docker run --runtime=nvidia -v $PWD:/home/$USER/deeprec-sib18 -it deeprec-sib18:latest bash -c ". envs/deeprec-sib18/bin/activate && cd /home/$USER/deeprec-sib18 && python dataset.py"
+docker run --runtime=nvidia --user=$USER -v $PWD:/home/$USER/deeprec-sib18 -it deeprec-sib18 bash -c "cd /home/$USER/deeprec-sib18 && python3 dataset.py"

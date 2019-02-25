@@ -1,4 +1,3 @@
-
 import os
 import time
 import json
@@ -11,7 +10,7 @@ from docrec.pipeline import Pipeline
 
 t0_ = time.time()
 path_model = '{}/{}'.format(os.getcwd(), open('best_model.txt').read())
-#path_model = 'model.npy'
+
 # reconstruction pipeline (compatibility algorithm + solver)
 algorithm = Proposed(path_model, 10, (3000, 31), num_classes=2)
 solver = SolverLS(maximize=True)

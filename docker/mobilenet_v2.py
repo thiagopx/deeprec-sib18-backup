@@ -80,34 +80,24 @@ import os
 import warnings
 import numpy as np
 
-from . import get_keras_submodule
-
-backend = get_keras_submodule('backend')
-engine = get_keras_submodule('engine')
-layers = get_keras_submodule('layers')
-models = get_keras_submodule('models')
-keras_utils = get_keras_submodule('utils')
-
+from . import correct_pad
+from . import get_submodules_from_kwargs
 from . import imagenet_utils
 from .imagenet_utils import decode_predictions
 from .imagenet_utils import _obtain_input_shape
-
-if hasattr(keras_utils, 'get_source_inputs'):
-    get_source_inputs = keras_utils.get_source_inputs
-else:
-    get_source_inputs = engine.get_source_inputs
 
 # TODO Change path to v1.1
 BASE_WEIGHT_PATH = ('https://github.com/JonathanCMitchell/mobilenet_v2_keras/'
                     'releases/download/v1.1/')
 
+backend = None
+layers = None
+models = None
+keras_utils = None
 
-def preprocess_input(x):
+
+def preprocess_input(x, **kwargs):
     """Preprocesses a numpy array encoding a batch of images.
-
-    This function applies the "Inception" preprocessing which converts
-    the RGB values from [0, 255] to [-1, 1]. Note that this preprocessing
-    function is different from `imagenet_utils.preprocess_input()`.
 
     # Arguments
         x: a 4D numpy array consists of RGB values within [0, 255].
@@ -115,9 +105,7 @@ def preprocess_input(x):
     # Returns
         Preprocessed array.
     """
-    x /= 128.
-    x -= 1.
-    return x.astype(np.float32)
+    return imagenet_utils.preprocess_input(x, mode='tf', **kwargs)
 
 
 # This function is taken from the original tf repo.
@@ -138,12 +126,12 @@ def _make_divisible(v, divisor, min_value=None):
 
 def MobileNetV2(input_shape=None,
                 alpha=1.0,
-                depth_multiplier=1,
                 include_top=True,
                 weights='imagenet',
                 input_tensor=None,
                 pooling=None,
-                classes=1000):
+                classes=1000,
+                **kwargs):
     """Instantiates the MobileNetV2 architecture.
 
     # Arguments
@@ -158,15 +146,14 @@ def MobileNetV2(input_shape=None,
             do not match then we will throw an error.
             E.g. `(160, 160, 3)` would be one valid value.
         alpha: controls the width of the network. This is known as the
-        width multiplier in the MobileNetV2 paper.
+        width multiplier in the MobileNetV2 paper, but the name is kept for
+        consistency with MobileNetV1 in Keras.
             - If `alpha` < 1.0, proportionally decreases the number
                 of filters in each layer.
             - If `alpha` > 1.0, proportionally increases the number
                 of filters in each layer.
             - If `alpha` = 1, default number of filters from the paper
                  are used at each layer.
-        depth_multiplier: depth multiplier for depthwise convolution
-            (also called the resolution multiplier)
         include_top: whether to include the fully-connected
             layer at the top of the network.
         weights: one of `None` (random initialization),
@@ -179,10 +166,10 @@ def MobileNetV2(input_shape=None,
             when `include_top` is `False`.
             - `None` means that the output of the model
                 will be the 4D tensor output of the
-                last convolutional layer.
+                last convolutional block.
             - `avg` means that global average pooling
                 will be applied to the output of the
-                last convolutional layer, and thus
+                last convolutional block, and thus
                 the output of the model will be a
                 2D tensor.
             - `max` means that global max pooling will
@@ -196,9 +183,11 @@ def MobileNetV2(input_shape=None,
 
     # Raises
         ValueError: in case of invalid argument for `weights`,
-            or invalid input shape or invalid depth_multiplier, alpha,
-            rows when weights='imagenet'
+            or invalid input shape or invalid alpha, rows when
+            weights='imagenet'
     """
+    global backend, layers, models, keras_utils
+    backend, layers, models, keras_utils = get_submodules_from_kwargs(kwargs)
 
     if not (weights in {'imagenet', None} or os.path.exists(weights)):
         raise ValueError('The `weights` argument should be either '
@@ -218,18 +207,18 @@ def MobileNetV2(input_shape=None,
         except ValueError:
             try:
                 is_input_t_tensor = backend.is_keras_tensor(
-                    get_source_inputs(input_tensor))
+                    keras_utils.get_source_inputs(input_tensor))
             except ValueError:
                 raise ValueError('input_tensor: ', input_tensor,
                                  'is not type input_tensor')
         if is_input_t_tensor:
             if backend.image_data_format == 'channels_first':
-                if input_tensor._keras_shape[1] != input_shape[1]:
+                if backend.int_shape(input_tensor)[1] != input_shape[1]:
                     raise ValueError('input_shape: ', input_shape,
                                      'and input_tensor: ', input_tensor,
                                      'do not meet the same shape requirements')
             else:
-                if input_tensor._keras_shape[2] != input_shape[1]:
+                if backend.int_shape(input_tensor)[2] != input_shape[1]:
                     raise ValueError('input_shape: ', input_shape,
                                      'and input_tensor: ', input_tensor,
                                      'do not meet the same shape requirements')
@@ -251,11 +240,11 @@ def MobileNetV2(input_shape=None,
             default_size = 224
         elif input_shape is None and backend.is_keras_tensor(input_tensor):
             if backend.image_data_format() == 'channels_first':
-                rows = input_tensor._keras_shape[2]
-                cols = input_tensor._keras_shape[3]
+                rows = backend.int_shape(input_tensor)[2]
+                cols = backend.int_shape(input_tensor)[3]
             else:
-                rows = input_tensor._keras_shape[1]
-                cols = input_tensor._keras_shape[2]
+                rows = backend.int_shape(input_tensor)[1]
+                cols = backend.int_shape(input_tensor)[2]
 
             if rows == cols and rows in [96, 128, 160, 192, 224]:
                 default_size = rows
@@ -295,17 +284,13 @@ def MobileNetV2(input_shape=None,
     cols = input_shape[col_axis]
 
     if weights == 'imagenet':
-        if depth_multiplier != 1:
-            raise ValueError('If imagenet weights are being loaded, '
-                             'depth multiplier must be 1')
-
         if alpha not in [0.35, 0.50, 0.75, 1.0, 1.3, 1.4]:
             raise ValueError('If imagenet weights are being loaded, '
                              'alpha can be one of `0.35`, `0.50`, `0.75`, '
                              '`1.0`, `1.3` or `1.4` only.')
 
-        # changed for sigbrapi paper
-        rows = 96 # used to load the weights of 96-size pretrained network
+        # changed for the sibgrapi paper
+        rows = 96
         # if rows != cols or rows not in [96, 128, 160, 192, 224]:
         #     if rows is None:
         #         rows = 224
@@ -318,7 +303,6 @@ def MobileNetV2(input_shape=None,
         #                          '(one of (96, 96), (128, 128), (160, 160),'
         #                          '(192, 192), or (224, 224)).'
         #                          'Input shape provided = %s' % (input_shape,))
-
 
     if backend.image_data_format() != 'channels_last':
         warnings.warn('The MobileNet family of models is only available '
@@ -344,12 +328,14 @@ def MobileNetV2(input_shape=None,
             img_input = input_tensor
 
     first_block_filters = _make_divisible(32 * alpha, 8)
+    x = layers.ZeroPadding2D(padding=correct_pad(backend, img_input, 3),
+                             name='Conv1_pad')(img_input)
     x = layers.Conv2D(first_block_filters,
                       kernel_size=3,
                       strides=(2, 2),
-                      padding='same',
+                      padding='valid',
                       use_bias=False,
-                      name='Conv1')(img_input)
+                      name='Conv1')(x)
     x = layers.BatchNormalization(
         epsilon=1e-3, momentum=0.999, name='bn_Conv1')(x)
     x = layers.ReLU(6., name='Conv1_relu')(x)
@@ -425,7 +411,7 @@ def MobileNetV2(input_shape=None,
     # Ensure that the model takes into account
     # any potential predecessors of `input_tensor`.
     if input_tensor is not None:
-        inputs = get_source_inputs(input_tensor)
+        inputs = keras_utils.get_source_inputs(input_tensor)
     else:
         inputs = img_input
 
@@ -461,7 +447,7 @@ def MobileNetV2(input_shape=None,
 
 
 def _inverted_res_block(inputs, expansion, stride, alpha, filters, block_id):
-    in_channels = inputs._keras_shape[-1]
+    in_channels = backend.int_shape(inputs)[-1]
     pointwise_conv_filters = int(filters * alpha)
     pointwise_filters = _make_divisible(pointwise_conv_filters, 8)
     x = inputs
@@ -483,11 +469,14 @@ def _inverted_res_block(inputs, expansion, stride, alpha, filters, block_id):
         prefix = 'expanded_conv_'
 
     # Depthwise
+    if stride == 2:
+        x = layers.ZeroPadding2D(padding=correct_pad(backend, x, 3),
+                                 name=prefix + 'pad')(x)
     x = layers.DepthwiseConv2D(kernel_size=3,
                                strides=stride,
                                activation=None,
                                use_bias=False,
-                               padding='same',
+                               padding='same' if stride == 1 else 'valid',
                                name=prefix + 'depthwise')(x)
     x = layers.BatchNormalization(epsilon=1e-3,
                                   momentum=0.999,

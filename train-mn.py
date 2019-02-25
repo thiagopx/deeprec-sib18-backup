@@ -292,7 +292,7 @@ def main():
     args = parser.parse_args()
 
     # training stage
-    #train(args)
+    train(args)
 
     # validation
     validate(args)

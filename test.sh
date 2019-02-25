@@ -3,5 +3,5 @@ for id in "${ids[@]}"
 do
    echo Testing "$id"
    script=test_$id.py
-   docker run --runtime=nvidia -v $PWD:/home/$USER/sib18 -it sib18:latest  sh -c "cd /home/$USER/sib18 && python $script"
+   docker run --runtime=nvidia -v $PWD:/home/$USER/deeprec-sib18 -it deeprec-sib18  bash -c "cd /home/$USER/deeprec-sib18 && python $script"
 done

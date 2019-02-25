@@ -1,8 +1,10 @@
 import os
 import numpy as np
 import tensorflow as tf
+#import keras
+#from keras_applications import MobileNetV2
 from keras.models import Model
-from keras.applications import MobileNetV2
+from keras.applications.mobilenet_v2 import MobileNetV2
 from keras.layers import Conv2D, Input, ReLU, GlobalAveragePooling2D
 from keras.initializers import RandomNormal
 

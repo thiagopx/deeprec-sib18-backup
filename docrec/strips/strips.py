@@ -76,30 +76,6 @@ class Strips(object):
             self.strips.append(strip)
 
 
-#
-#    def copy(self):
-#        ''' Return a copy of object. '''
-#
-#        strips = self.__class__()
-#        strips.__dict__ = self.__dict__.copy()
-#
-#        return strips
-#
-#
-#    def dump(self, path):
-#        ''' Store fields into the folder pointed by path. '''
-#
-#        path = os.path.join(path, 'strips')
-#        if not os.path.exists(path):
-#            os.makedirs(os.path.join(path, 'images'))
-#
-#        for i, image in enumerate(self.images):
-#            np.save(os.path.join(path, 'images', '%s.npy' % i), image)
-#
-#        with open(os.path.join(path, 'order.txt'), 'w') as f:
-#            f.write(' '.join([str(x) for x in self.order]))
-#
-#
     def trim(self, left=0, right=0):
         ''' Trim borders from strips. '''
 
@@ -186,64 +162,6 @@ class Strips(object):
             return self._align(i, j) # filled not used
 
         return self.strips[i].copy().stack(self.strips[j], filled).image
-
-
-    # def reconstruction_image(self, perm=None, verbose=False):
-    #     ''' Put images side by side. '''
-
-    #     if perm is None:
-    #         perm = list(range(len(self.strips)))
-
-    #     w = sum([strip.image.shape[1] for strip in self.strips])
-    #     h = max([strip.image.shape[0] for strip in self.strips])
-    #     support = np.zeros((h, w, 3), dtype=np.uint8)
-    #     buffer = np.zeros((h, w, 3), dtype=np.uint8)
-    #     s0 = self.strips[perm[0]]
-    #     h0, w0, _ = s0.image.shape
-    #     support[: h0, : w0] = s0.image
-    #     Macc = np.eye(3)
-    #     wacc = w0
-    #     for i, j in zip(perm[ : -1], perm[1 :]):
-    #         if verbose:
-    #             print('Splicing pieces {} {}'.format(i, j))
-    #         Mcurr = self._matching_transform(i, j)
-    #         sj = self.strips[j]
-    #         hj, wj, _ = sj.image.shape
-    #         buffer[: hj, wacc : wacc + wj] = sj.image
-    #         Macc = np.dot(Macc, Mcurr)
-    #         buffer = (255 * transform.warp(buffer, Macc, cval=0)).astype(np.uint8)
-    #         support = cv2.bitwise_or(support, buffer)
-    #         # plt.imshow(support)
-    #         # plt.show()
-    #         wacc += wj
-    #         buffer[:] = 0 # clear buffer
-    #     return support
-##
-##   # Returns a subset containing the n first strips
-##   def firstn(self, n=30):
-##      self.shuffle(range(n))
-##      return self
-##
-##   def complexity(self):
-##      strips_bin = self.copy().conv2bin()
-##      h, w = strips_bin.image().shape
-##      norm_factor = h * (w - 1)
-##      return float(np.diff(strips_bin.image(), axis=1).sum()) / norm_factor
-##
-##   def save_image(self, filename):
-##      imsave(filename, self._img)
-##
-##    def direct_comparison(self, order):
-##        ''' Accuracy by neighbor comparsison. '''
-##
-##        assert len(order) > 0
-##        assert len(self.order) > 0
-##
-##        new_order = np.array([self.order[p] for p in order])
-##        ref_order = np.arange(len(new_order))
-##
-##        return (new_order == ref_order).sum() / float(ref_order.size)
-##
 
     def plot(self, size=(8, 8), fontsize=6, ax=None, show_lines=False):
         ''' Plot strips given the current order. '''

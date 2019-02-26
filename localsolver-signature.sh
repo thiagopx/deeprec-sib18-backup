@@ -1,0 +1,1 @@
+docker run --user=$USER -it deeprec-sib18 bash -c "/opt/localsolver_8_5/bin/lskeygen"

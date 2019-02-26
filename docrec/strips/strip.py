@@ -4,9 +4,6 @@ import copy
 import matplotlib.pyplot as plt
 
 from ..ndarray.utils import first_nonzero, last_nonzero
-from ..ocr.text.extraction import extract_text
-from ..ocr.character.extraction import extract_characters
-
 
 class Strip(object):
     ''' Strip image.'''
@@ -56,7 +53,6 @@ class Strip(object):
             )
         )
 
-
     def is_blank(self, blank_tresh=127):
         ''' Check if is a blank strip. '''
 
@@ -64,14 +60,6 @@ class Strip(object):
             cv2.cvtColor(self.filled_image(), cv2.COLOR_RGB2GRAY), (5, 5), 0
         )
         return (blurred < blank_tresh).sum() == 0
-
-    # def is_blank(self, blank_tresh=127):
-    #     ''' Check if is a blank strip. '''
-
-    #     _, thresh = cv2.threshold(
-    #         cv2.cvtColor(self..filled_image(), cv2.COLOR_RGB2GRAY), 0, 1, cv2.THRESH_BINARY + cv2.THRESH_OTSU
-    #     )
-    #     return thresh.sum() == 0
 
 
     def stack(self, other, disp=0, filled=False):
@@ -101,46 +89,3 @@ class Strip(object):
         if filled:
             self.image = self.filled_image()
         return self
-
-
-    def extract_text(self, min_height, max_height, max_separation):
-        '''Extract text information contained in the strip. '''
-
-        self.text = extract_text(
-            self.filled_image(), min_height, max_height, max_separation, 0.95
-        )
-
-
-    def extract_characters(self, d):
-        ''' Extract characters information. '''
-
-        self.left = []
-        self.right = []
-        if not self.text:
-            return
-
-        # borders coordinates (mask)
-        lb = self.left_borders_coordinates()
-        rb = self.right_borders_coordinates()
-        lb += d
-        rb -= d
-
-        for text in self.text:
-            # extraction
-            chars = extract_characters(
-                text, max_width=int(self.approximate_width() / 2), invert=True
-            )
-
-            # categorization
-            for char in chars:
-                (x, y, w, h), _ = char # strip coordinates domain
-
-                # left ?
-                if np.any(x <= lb[y : y + h]):
-                    self.left.append(char)
-                # right ?
-                elif np.any(x + w - 1 >= rb[y : y + h]):
-                    self.right.append(char)
-                # inner !
-                else:
-                    pass

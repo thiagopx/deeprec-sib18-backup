@@ -20,9 +20,6 @@ RUN useradd -m -u $UID -g $GID -s /bin/bash $UNAME
 USER $UNAME
 WORKDIR /home/$UNAME
 
-ENV PROJECT deeprec-sib18
-ENV NVIDIA_VISIBLE_DEVICES $GPUID
-
 # tensorflow (amx disabled)
 #COPY tensorflow-1.10.1-cp35-cp35m-linux_x86_64.whl .
 #RUN pip install --user tensorflow-1.10.1-cp35-cp35m-linux_x86_64.whl
@@ -36,12 +33,16 @@ RUN rm requirements.txt
 # MobileNetV2
 COPY mobilenet_v2.py /home/$UNAME/.local/lib/python3.5/site-packages/keras_applications
 
+ENV PROJECT deeprec-sib18
+ENV NVIDIA_VISIBLE_DEVICES $GPUID
 ENV PROJECTDIR /home/$UNAME/$PROJECT
-ENV LD_LIBRARY_PATH "$PROJECTDIR/docrec/libs:$LD_LIBRARY_PATH"
-ENV PYTHONPATH "$PROJECTDIR/docrec/libs:$PYTHONPATH"
+ENV LD_LIBRARY_PATH "$PROJECTDIR/docrec/libs:/opt/localsolver/bin:$LD_LIBRARY_PATH"
+ENV PYTHONPATH "$PROJECTDIR/docrec/libs:/opt/localsolver/bin/python37:$PYTHONPATH"
+
+# installing as root
+USER root
 
 # Latex (for graphs plotting)
-USER root
 RUN apt install texlive-base -y
 
 # OpenCV deps
@@ -52,3 +53,11 @@ RUN apt-get install libgomp1
 
 # Andalo's software deps
 RUN apt-get install libgl1-mesa-glx qt4-dev-tools libgmp-dev -y
+
+RUN apt install sudo
+
+# Localsolver
+COPY LocalSolver_8_5_20190219_Linux64.run .
+USER root
+RUN bash /home/$UNAME/LocalSolver_8_5_20190219_Linux64.run
+RUN rm LocalSolver_8_5_20190219_Linux64.run

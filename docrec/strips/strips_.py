@@ -12,16 +12,13 @@ from .strip import Strip
 class Strips(object):
     ''' Strips operations manager.'''
 
-    def __init__(self, path=None, strips_list=None, filter_blanks=True, blank_tresh=127):
+    def __init__(self, path=None, obj=None, filter_blanks=True, blank_tresh=127):
         ''' Strips constructor.
 
         @path: path to strips (in case of load real strips)
-        @strips_list: list of strips (objects of Strip class)
-        @filter_blanks: true-or-false flag indicating the removal of blank strips
-        @blank_thresh: threshold used in the blank strips filtering
         '''
 
-        assert (path is not None) or (strips_list is not None)
+        assert (path is not None) or (obj is not None)
 
         self.strips = []
         self.artificial_mask = False
@@ -29,7 +26,7 @@ class Strips(object):
             assert os.path.exists(path)
             self._load_data(path)
         else:
-            self.strips = [strip.copy() for strip in strips_list]
+            self.strips = [strip.copy() for strip in obj.strips]
 
         if filter_blanks:
             self.strips = [strip for strip in self.strips if not strip.is_blank(blank_tresh)]
@@ -55,7 +52,7 @@ class Strips(object):
         regex = re.compile(regex_str)
 
         # loading images
-        fnames = sorted([fname for fname in os.listdir(path_images) if regex.match(fname)])
+        fnames = sorted([fname for fname in  os.listdir(path_images) if regex.match(fname)])
         images = []
         for fname in fnames:
             image = cv2.cvtColor(
@@ -79,30 +76,6 @@ class Strips(object):
             self.strips.append(strip)
 
 
-#
-#    def copy(self):
-#        ''' Return a copy of object. '''
-#
-#        strips = self.__class__()
-#        strips.__dict__ = self.__dict__.copy()
-#
-#        return strips
-#
-#
-#    def dump(self, path):
-#        ''' Store fields into the folder pointed by path. '''
-#
-#        path = os.path.join(path, 'strips')
-#        if not os.path.exists(path):
-#            os.makedirs(os.path.join(path, 'images'))
-#
-#        for i, image in enumerate(self.images):
-#            np.save(os.path.join(path, 'images', '%s.npy' % i), image)
-#
-#        with open(os.path.join(path, 'order.txt'), 'w') as f:
-#            f.write(' '.join([str(x) for x in self.order]))
-#
-#
     def trim(self, left=0, right=0):
         ''' Trim borders from strips. '''
 
@@ -111,25 +84,75 @@ class Strips(object):
         return self
 
 
-    def image(self, order=None, displacements=None, filled=False, verbose=False):
+    def image(self, order=None, displacements=None, filled=False):
         ''' Return the reconstruction image in a specific order . '''
 
         N = len(self.strips)
         if order is None:
             order = list(range(N))
         if displacements is None:
-            displacements = np.zeros(N, dtype=np.int32)
+            displacements = np.zeros((N, N), dtype=np.int32)
 
         prev = order[0]
         image = self.strips[prev].copy()
-        i = 1
-        total = len(order) - 1
-        for curr, disp in zip(order[1 :], displacements):
-            if verbose:
-                 print('stacking strip {}/{}'.format(i, total))
-            i += 1
-            image.stack(self.strips[curr], disp=disp, filled=filled)
+        for curr in order[1 :]:
+            disp = displacements[prev, curr]
+            image.stack(self.strips[curr].copy().shift(disp), filled=filled)
+            prev = curr
         return image.image
+
+    # def _matching_transform(self, i, j, num_points=30, radius_search=3, radius_feat=10):
+    #     ''' Matching points for alignment. '''
+
+    #     if self.artificial_mask:
+    #         return np.eye(3, 3)
+
+    #     si, sj = self.strips[i], self.strips[j]
+    #     offset = si.image.shape[1]
+    #     hi, wi, _ = si.image.shape
+    #     hj, wj, _ = sj.image.shape
+    #     min_y = radius_search + radius_feat
+    #     max_y = min(hi, hj) - 1 - radius_search - radius_feat
+    #     stride = int((max_y - min_y) / (num_points - 1))
+    #     diff_si, diff_sj = np.diff(si.offsets_r), np.diff(sj.offsets_l)
+    #     si_pts, sj_pts = [], []
+    #     for yi in range(min_y, max_y + 1, stride):
+    #         xi = si.offsets_r[yi]
+    #         si_pts.append((xi, yi))
+    #         feat_i = diff_si[yi - radius_feat : yi + radius_feat + 1]
+    #         min_cost = float('inf')
+    #         best_yj = -1
+    #         for yj in range(yi - radius_search, yi + radius_search + 1):
+    #             feat_j = diff_sj[yj - radius_feat : yj + radius_feat + 1]
+    #             cost = np.sum((feat_i - feat_j) ** 2)
+    #             if cost < min_cost:
+    #                 best_yj = yj
+    #                 min_cost = cost
+    #         xj = sj.offsets_l[best_yj] + offset
+    #         sj_pts.append((xj, best_yj))
+    #         #print((xi, yi), (xj, best_yj))
+
+    #     T = transform.EuclideanTransform()
+    #     T.estimate(np.array(si_pts), np.array(sj_pts))
+    #     return T.params
+
+
+    # def _align(self, i, j):
+    #     '''Align a pair of strips. '''
+
+    #     si, sj = self.strips[i], self.strips[j]
+
+    #     # align sj -> si
+    #     hi, wi, _ = si.image.shape
+    #     hj, wj, _ = sj.image.shape
+    #     h = max(hi, hj)
+    #     support = 255 * np.ones((h, wi + wj, 3), dtype=np.uint8)
+    #     M = self._matching_transform(i, j)
+    #     print(M)
+    #     support[:, wi : wi + wj] = sj.filled_image()
+    #     support = (255 * transform.warp(support, M, cval=1)).astype(np.uint8)
+    #     support[: hi, : wi] = cv2.bitwise_and(support[: hi, : wi], si.filled_image())
+    #     return support
 
 
     def pair(self, i, j, filled=False, accurate=False):
@@ -139,7 +162,6 @@ class Strips(object):
             return self._align(i, j) # filled not used
 
         return self.strips[i].copy().stack(self.strips[j], filled).image
-
 
     def plot(self, size=(8, 8), fontsize=6, ax=None, show_lines=False):
         ''' Plot strips given the current order. '''

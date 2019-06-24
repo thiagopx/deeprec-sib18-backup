@@ -1,4 +1,4 @@
-ids=(proposed) # proposed-mn others others_best)
+ids=(proposed proposed-mn others others_best)
 for id in "${ids[@]}"
 do
    echo Testing "$id"

@@ -54,10 +54,7 @@ RUN apt-get install libgomp1
 # Andalo's software deps
 RUN apt-get install libgl1-mesa-glx qt4-dev-tools libgmp-dev -y
 
-RUN apt install sudo
-
-# Localsolver
-COPY LocalSolver_8_5_20190219_Linux64.run .
-USER root
-RUN bash /home/$UNAME/LocalSolver_8_5_20190219_Linux64.run
-RUN rm LocalSolver_8_5_20190219_Linux64.run
+# Localsolver 8.0
+# RUN wget https://www.localsolver.com/downloads/8_0_20181106/LocalSolver_8_0_20181106_Linux64.run && \
+#     chmod u+x LocalSolver_8_0_20181106_Linux64.run && \
+#     ./LocalSolver_8_0_20181106_Linux64.run

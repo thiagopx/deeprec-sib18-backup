@@ -38,20 +38,28 @@ cd deeprec-sib18
 ```
 bash build.sh
 ```
+The container includes all dependencies except the [LocalSolver](https://www.localsolver.com/) optimizer, which requires a license. You should install LocalSolver locally in ```/opt/localsolver```.
 
-3. Train the models:
+3. Generate the training samples:
+```
+bash dataset.sh
+```
+
+4. Train the models:
 ```
 bash train.sh    # for SqueezeNet
 bash train-mn.sh # for MobileNet
 ```
 
-4. Run the experiment (includes all methods/architectures):
+5. Run the experiment (includes all methods/architectures):
 ```
 bash test.sh
 ```
 The results will be placed at ```results``` directory.
 
-5. Generate the graphs:
+**Important**: Note that ```test.sh``` creates a volume from the local ```/opt/localsolver``` directory.
+
+6. Generate the graphs:
 ```
 bash graphs.sh
 ```

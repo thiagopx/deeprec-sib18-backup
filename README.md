@@ -24,25 +24,35 @@ The use of paper-shredder machines (mechanical shredding) to destroy documents c
 
 ### Reproducing the experiments
 In construction.
-<!--
 
-Although the system has several dependencies, the experiments can be easily reproduced thanks to the [Docker](https://www.docker.com/) container technology. After installing Docker in our environment, make sure you are able to run Docker containers as non-root user (check this [guide](https://docs.docker.com/install/linux/linux-postinstall) for additional information). Then, run the following bash commands in a terminal:
+
+The experiments can be reproduced with [NVIDIA Docker](https://github.com/NVIDIA/nvidia-docker) container technology. After installing Docker in our environment, make sure you are able to run Docker containers as non-root user (check this [guide](https://docs.docker.com/install/linux/linux-postinstall) for additional information). Then, run the following bash commands in a terminal:
 
 1. Clone the project repository and enter the project directory:
 ```
-git clone https://github.com/thiagopx/docrec-tifs18.git
-cd docrect-tifs18
+git clone https://github.com/thiagopx/deeprec-sib18.git
+cd deeprec-sib18
 ```
+
 2. Build the container (defined in ```docker/Dockerfile```):
 ```
 bash build.sh
 ```
-3. Run the experiments:
+
+3. Train the models:
 ```
-bash run.sh
+bash train.sh    # for SqueezeNet
+bash train-mn.sh # for MobileNet
 ```
 
-*Technical note* : the threshold for shape matching is already calibrate acording the source code in ```train``` directory. The optimal value was obtained by running ```python train.py```, and the configuration file ```algorithms.cfg``` was manually modified accordingly.
--->
+4. Run the experiment (includes all methods/architectures):
+```
+bash test.sh
+```
+The results will be placed at ```results``` directory.
 
-
+5. Generate the graphs:
+```
+bash graphs.sh
+```
+By default, the graphs will be placed at ```graphs``` directory.

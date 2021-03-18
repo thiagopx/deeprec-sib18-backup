@@ -1,4 +1,4 @@
-pillow==5.3
+pillow==8.1.1
 scikit-image==0.14
 tensorflow-gpu==1.10
 keras
